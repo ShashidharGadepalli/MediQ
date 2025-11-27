@@ -1,0 +1,21 @@
+Hospital: Hernandez-Lopez Hospital
+Patient: Denise Clark, ID HSP80464, Age 47, Gender Male
+Consulting Doctor: Dr. Kristine Rose, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Observed Haemoglobin (g/dL): 19.6 g/dL. Marked as H.
+Total RBC (mill/cmm) came out to be 5.22 mill/cmm, compared to normal 4.2-5.4.
+Haematocrit (%) came out to be 45.38 %, compared to normal 36-46.
+Observed WBC (/uL): 6529.96 /uL.
+Lab recorded Platelets (/uL) value of 409008.09/uL.
+Neutrophils (%) came out to be 66.82 %, compared to normal 40-70.
+Observed Lymphocytes (%): 30.42 %.
+Monocytes (%) was measured at 4.97 %.
+Lab recorded Eosinophils (%) value of 2.97%.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Aspirin 81 mg, OD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Report verified by automated system.

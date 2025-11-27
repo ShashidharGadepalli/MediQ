@@ -1,0 +1,20 @@
+Hospital: Irwin, Lambert and Donaldson Hospital
+Patient: Joseph Black, ID HSP45289, Age 61, Gender Male
+Consulting Doctor: Dr. Tiffany Clay, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) came out to be 17.39 g/dL, compared to normal 12.0-16.0. Marked as H.
+Total RBC (mill/cmm) came out to be 3.04 mill/cmm, compared to normal 4.2-5.4. Marked as L.
+Haematocrit (%) came out to be 42.7 %, compared to normal 36-46.
+Observed WBC (/uL): 5484.08 /uL.
+Lab recorded Platelets (/uL) value of 548458.12/uL. Marked as H.
+Observed Neutrophils (%): 46.88 %.
+Observed Lymphocytes (%): 33.84 %.
+Lab recorded Monocytes (%) value of 1.43%. Marked as L.
+Observed Eosinophils (%): 7.76 %. Marked as H.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Coronary Artery Disease
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+This report is generated electronically and may not need signature.

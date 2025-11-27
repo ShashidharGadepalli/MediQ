@@ -1,0 +1,20 @@
+Hospital: Scott Inc Hospital
+Patient: Renee Rocha, ID HSP30555, Age 64, Gender Female
+Consulting Doctor: Dr. Trevor Martin, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) came out to be 19.19 g/dL, compared to normal 12.0-16.0. Marked as H.
+Total RBC (mill/cmm) was measured at 3.47 mill/cmm. Marked as L.
+Observed Haematocrit (%): 51.62 %. Marked as H.
+Observed WBC (/uL): 3183.94 /uL. Marked as L.
+Platelets (/uL) was measured at 203400.26 /uL.
+Neutrophils (%) was measured at 28.78 %. Marked as L.
+Observed Lymphocytes (%): 41.19 %. Marked as H.
+Monocytes (%) was measured at 10.87 %. Marked as H.
+Lab recorded Eosinophils (%) value of 5.79%.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Some values may vary depending on lab equipment calibration.

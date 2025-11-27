@@ -1,0 +1,19 @@
+Hospital: Brandt-Goodwin Hospital
+Patient: Heather Moss, ID HSP91235, Age 80, Gender Female
+Consulting Doctor: Dr. Andrew Snyder, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Haemoglobin (g/dL) came out to be 15.69 g/dL, compared to normal 12.0-16.0.
+Total RBC (mill/cmm) came out to be 4.88 mill/cmm, compared to normal 4.2-5.4.
+Lab recorded Haematocrit (%) value of 48.05%. Marked as H.
+WBC (/uL) was measured at 12993.36 /uL. Marked as H.
+Lab recorded Platelets (/uL) value of 561536.8/uL. Marked as H.
+Observed Neutrophils (%): 42.89 %.
+Lab recorded Lymphocytes (%) value of 24.63%.
+Monocytes (%) was measured at 7.18 %.
+Eosinophils (%) came out to be 6.54 %, compared to normal 1-6. Marked as H.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+Some values may vary depending on lab equipment calibration.

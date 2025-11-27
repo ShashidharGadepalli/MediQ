@@ -1,0 +1,21 @@
+Hospital: Hudson, Ramos and Ibarra Hospital
+Patient: Kelly Orr, ID HSP35432, Age 51, Gender Female
+Consulting Doctor: Dr. Joshua Roberts, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Observed Haemoglobin (g/dL): 14.19 g/dL.
+Total RBC (mill/cmm) was measured at 3.49 mill/cmm. Marked as L.
+Observed Haematocrit (%): 45.02 %.
+Observed WBC (/uL): 5558.76 /uL.
+Platelets (/uL) came out to be 231101.16 /uL, compared to normal 150000-450000.
+Observed Neutrophils (%): 78.06 %. Marked as H.
+Lab recorded Lymphocytes (%) value of 39.15%.
+Monocytes (%) came out to be 6.1 %, compared to normal 2-10.
+Eosinophils (%) was measured at 4.43 %.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+ - Aspirin 81 mg, OD
+Doctor advised proper rest and hydration.

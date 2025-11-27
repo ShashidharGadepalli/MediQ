@@ -1,0 +1,21 @@
+Hospital: Green, Le and Burton Hospital
+Patient: Tonya Taylor, ID HSP77734, Age 73, Gender Male
+Consulting Doctor: Dr. Christopher Herring, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Haemoglobin (g/dL) came out to be 17.22 g/dL, compared to normal 12.0-16.0. Marked as H.
+Total RBC (mill/cmm) was measured at 6.63 mill/cmm. Marked as H.
+Lab recorded Haematocrit (%) value of 40.36%.
+WBC (/uL) came out to be 9910.07 /uL, compared to normal 4000-10000.
+Lab recorded Platelets (/uL) value of 401479.39/uL.
+Neutrophils (%) was measured at 28.92 %. Marked as L.
+Lymphocytes (%) came out to be 14.47 %, compared to normal 20-40. Marked as L.
+Monocytes (%) came out to be 6.62 %, compared to normal 2-10.
+Lab recorded Eosinophils (%) value of 4.66%.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Aspirin 81 mg, OD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Doctor advised proper rest and hydration.

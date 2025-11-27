@@ -1,0 +1,20 @@
+Hospital: Davenport, Guzman and Tate Hospital
+Patient: Kristi Jones, ID HSP83553, Age 69, Gender Female
+Consulting Doctor: Dr. Melissa Perez, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Lab recorded Haemoglobin (g/dL) value of 20.01g/dL. Marked as H.
+Total RBC (mill/cmm) came out to be 4.05 mill/cmm, compared to normal 4.2-5.4. Marked as L.
+Lab recorded Haematocrit (%) value of 51.46%. Marked as H.
+WBC (/uL) came out to be 4422.57 /uL, compared to normal 4000-10000.
+Lab recorded Platelets (/uL) value of 424840.21/uL.
+Lab recorded Neutrophils (%) value of 34.35%. Marked as L.
+Observed Lymphocytes (%): 25.19 %.
+Observed Monocytes (%): 4.28 %.
+Eosinophils (%) came out to be 2.62 %, compared to normal 1-6.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Metformin 500 mg, BD
+Patient reported feeling slightly weak yesterday evening.

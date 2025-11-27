@@ -1,0 +1,21 @@
+Hospital: Allen, Ballard and Turner Hospital
+Patient: Valerie Brown, ID HSP71462, Age 51, Gender Female
+Consulting Doctor: Dr. Connie Sanders PhD, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Haemoglobin (g/dL) was measured at 10.81 g/dL. Marked as L.
+Total RBC (mill/cmm) was measured at 5.09 mill/cmm.
+Observed Haematocrit (%): 29.7 %. Marked as L.
+Observed WBC (/uL): 6924.76 /uL.
+Platelets (/uL) came out to be 267881.78 /uL, compared to normal 150000-450000.
+Neutrophils (%) was measured at 59.58 %.
+Observed Lymphocytes (%): 32.2 %.
+Lab recorded Monocytes (%) value of 12.98%. Marked as H.
+Eosinophils (%) came out to be 6.2 %, compared to normal 1-6. Marked as H.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection), Hypertension
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Aspirin 81 mg, OD
+ - Lisinopril 10 mg, OD
+Report verified by automated system.

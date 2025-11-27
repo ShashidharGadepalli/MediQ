@@ -1,0 +1,21 @@
+Hospital: Evans-Brown Hospital
+Patient: Derek Hall, ID HSP76621, Age 72, Gender Male
+Consulting Doctor: Dr. James Black, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Lab recorded Haemoglobin (g/dL) value of 18.7g/dL. Marked as H.
+Total RBC (mill/cmm) was measured at 5.1 mill/cmm.
+Haematocrit (%) was measured at 45.03 %.
+Observed WBC (/uL): 7553.77 /uL.
+Platelets (/uL) came out to be 552369.56 /uL, compared to normal 150000-450000. Marked as H.
+Observed Neutrophils (%): 69.45 %.
+Observed Lymphocytes (%): 14.93 %. Marked as L.
+Monocytes (%) came out to be 6.62 %, compared to normal 2-10.
+Lab recorded Eosinophils (%) value of 1.93%.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Atorvastatin 20 mg, HS
+ - Metformin 500 mg, BD
+Report verified by automated system.

@@ -1,0 +1,28 @@
+Hospital: Harbor View Medical Plaza
+Patient: Patricia Green, ID HSP41783, Age 58, Gender Female
+Consulting Doctor: Dr. Marcus Johnson, Date: 2025-11-27
+Report verified by automated system.
+Some values may vary depending on lab equipment calibration.
+Patient has been compliant with current medication regimen.
+Hb: 19.5g/dL, well above normal 12.0-16.0. Flag: H
+Doctor advised proper rest and hydration.
+RBC count measured at 4.8 mill/cmm, normal parameters.
+Lab results indicate stable condition overall.
+Haematocrit = 35.2%, slightly below range 36-46%. Marked as L.
+Report verified by automated system.
+White blood cells: 4,500/uL, normal.
+Patient reported feeling slightly weak yesterday evening.
+Platelets show 310,000 per microliter - acceptable.
+Sample collected and processed on same day for accuracy.
+Neutrophils (%) came out to be 28.9%, below normal 40-70%. LOW
+Lymph percentage at 38.5%, within range 20-40%.
+This report is generated electronically and may not need signature.
+Monocytes recorded: 1.8%, slightly low compared to 2-10%. L
+Eosinophils measured at 6.8%, above normal 1-6%. H
+Quality assurance check completed successfully.
+Final Clinical Notes:
+Diagnosis includes: Erythrocytosis, Neutropenia
+Medications prescribed:
+ - Phlebotomy scheduled
+ - Filgrastim 300 mcg, OD for 5 days
+Results available in patient portal within 24 hours.

@@ -1,0 +1,20 @@
+Hospital: Owens PLC Hospital
+Patient: Angel Crosby, ID HSP18790, Age 69, Gender Male
+Consulting Doctor: Dr. Patricia Williams, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Lab recorded Haemoglobin (g/dL) value of 13.08g/dL.
+Observed Total RBC (mill/cmm): 3.55 mill/cmm. Marked as L.
+Observed Haematocrit (%): 53.99 %. Marked as H.
+WBC (/uL) was measured at 12723.28 /uL. Marked as H.
+Platelets (/uL) came out to be 125213.23 /uL, compared to normal 150000-450000. Marked as L.
+Neutrophils (%) came out to be 61.7 %, compared to normal 40-70.
+Lymphocytes (%) came out to be 45.84 %, compared to normal 20-40. Marked as H.
+Monocytes (%) came out to be 3.91 %, compared to normal 2-10.
+Lab recorded Eosinophils (%) value of 6.42%. Marked as H.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Atorvastatin 20 mg, HS
+Report verified by automated system.

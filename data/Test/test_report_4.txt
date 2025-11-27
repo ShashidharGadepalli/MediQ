@@ -1,0 +1,28 @@
+Hospital: Riverside Regional Hospital
+Patient: Michael Thompson, ID HSP73829, Age 81, Gender Male
+Consulting Doctor: Dr. Patricia Williams, Date: 2025-11-21
+Report verified by automated system.
+Patient has history of cardiovascular disease.
+Some values may vary depending on lab equipment calibration.
+Hemoglobin (g/dL) came out to be 8.2, significantly below normal 12.0-16.0. L
+Total RBC: 2.95 mill/cmm - critically LOW
+Doctor advised immediate consultation with hematologist.
+Hematocrit percentage at 52.1%, marked HIGH (normal 36-46%)
+Sample collected at 06:45 AM, processed same day.
+WBC count shows 14,500/uL, elevated ↑ (reference: 4000-10000)
+Report verified by automated system.
+Platelets measured at 98,000 per uL - DECREASED (normal 150000-450000)
+Patient reported feeling extremely fatigued.
+Neutrophil percentage = 85.2%, compared to normal 40-70%. Status: H
+Lab recorded Lymphocytes (%) value of 14.5%. Marked as L.
+This report is generated electronically and may not need signature.
+Monocytes came out to be 3.8%, within normal range 2-10%.
+Eos: 1.2%, acceptable levels.
+Results reviewed and approved by supervising physician.
+Final Clinical Notes:
+Diagnosis includes: Severe Anemia, Thrombocytopenia, Leukocytosis
+Medications prescribed:
+ - Epoetin Alfa 4000 units, twice weekly
+ - Iron Supplement 325 mg, BD
+ - Clopidogrel 75 mg, OD
+Please schedule follow-up appointment within 1 week.

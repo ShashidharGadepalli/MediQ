@@ -1,0 +1,20 @@
+Hospital: Sutton-Welch Hospital
+Patient: Christian Hood, ID HSP01960, Age 66, Gender Female
+Consulting Doctor: Dr. William Charles, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) came out to be 11.12 g/dL, compared to normal 12.0-16.0. Marked as L.
+Total RBC (mill/cmm) came out to be 5.0 mill/cmm, compared to normal 4.2-5.4.
+Haematocrit (%) came out to be 36.2 %, compared to normal 36-46.
+Observed WBC (/uL): 8716.91 /uL.
+Observed Platelets (/uL): 425848.13 /uL.
+Neutrophils (%) was measured at 81.86 %. Marked as H.
+Lab recorded Lymphocytes (%) value of 39.77%.
+Monocytes (%) came out to be 5.61 %, compared to normal 2-10.
+Eosinophils (%) was measured at 1.06 %.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Some values may vary depending on lab equipment calibration.

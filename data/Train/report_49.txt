@@ -1,0 +1,20 @@
+Hospital: Allen-Howell Hospital
+Patient: Katherine Baker, ID HSP89215, Age 40, Gender Female
+Consulting Doctor: Dr. Linda Taylor, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Observed Haemoglobin (g/dL): 12.48 g/dL.
+Observed Total RBC (mill/cmm): 3.68 mill/cmm. Marked as L.
+Lab recorded Haematocrit (%) value of 52.68%. Marked as H.
+Observed WBC (/uL): 8065.32 /uL.
+Platelets (/uL) came out to be 517329.7 /uL, compared to normal 150000-450000. Marked as H.
+Lab recorded Neutrophils (%) value of 84.23%. Marked as H.
+Lymphocytes (%) came out to be 49.13 %, compared to normal 20-40. Marked as H.
+Monocytes (%) came out to be 11.36 %, compared to normal 2-10. Marked as H.
+Observed Eosinophils (%): 4.15 %.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Atorvastatin 20 mg, HS
+Report verified by automated system.

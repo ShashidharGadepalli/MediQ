@@ -1,0 +1,21 @@
+Hospital: Gonzalez, Delacruz and Bell Hospital
+Patient: Monica Short, ID HSP30232, Age 24, Gender Female
+Consulting Doctor: Dr. Mark Terry, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Lab recorded Haemoglobin (g/dL) value of 17.35g/dL. Marked as H.
+Total RBC (mill/cmm) was measured at 6.08 mill/cmm. Marked as H.
+Haematocrit (%) was measured at 28.03 %. Marked as L.
+WBC (/uL) was measured at 4500.8 /uL.
+Platelets (/uL) was measured at 356254.43 /uL.
+Observed Neutrophils (%): 53.72 %.
+Observed Lymphocytes (%): 14.82 %. Marked as L.
+Monocytes (%) came out to be 2.43 %, compared to normal 2-10.
+Eosinophils (%) was measured at 6.78 %. Marked as H.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+ - Aspirin 81 mg, OD
+Report verified by automated system.

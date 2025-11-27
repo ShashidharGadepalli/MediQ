@@ -1,0 +1,21 @@
+Hospital: Anderson LLC Hospital
+Patient: James Knox, ID HSP11825, Age 47, Gender Female
+Consulting Doctor: Dr. Steven Combs, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Lab recorded Haemoglobin (g/dL) value of 15.88g/dL.
+Observed Total RBC (mill/cmm): 4.64 mill/cmm.
+Haematocrit (%) came out to be 33.65 %, compared to normal 36-46. Marked as L.
+Observed WBC (/uL): 8301.95 /uL.
+Platelets (/uL) came out to be 226018.37 /uL, compared to normal 150000-450000.
+Lab recorded Neutrophils (%) value of 77.28%. Marked as H.
+Observed Lymphocytes (%): 24.37 %.
+Monocytes (%) was measured at 2.35 %.
+Eosinophils (%) was measured at 2.17 %.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Lisinopril 10 mg, OD
+ - Aspirin 81 mg, OD
+Patient reported feeling slightly weak yesterday evening.

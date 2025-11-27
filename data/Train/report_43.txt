@@ -1,0 +1,20 @@
+Hospital: Blankenship Inc Hospital
+Patient: John Jacobson, ID HSP24420, Age 34, Gender Female
+Consulting Doctor: Dr. Cindy Howard, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Haemoglobin (g/dL) was measured at 15.36 g/dL.
+Total RBC (mill/cmm) came out to be 5.53 mill/cmm, compared to normal 4.2-5.4. Marked as H.
+Lab recorded Haematocrit (%) value of 49.12%. Marked as H.
+WBC (/uL) was measured at 10868.45 /uL. Marked as H.
+Platelets (/uL) came out to be 529323.58 /uL, compared to normal 150000-450000. Marked as H.
+Lab recorded Neutrophils (%) value of 72.74%. Marked as H.
+Lab recorded Lymphocytes (%) value of 18.6%. Marked as L.
+Monocytes (%) came out to be 2.78 %, compared to normal 2-10.
+Observed Eosinophils (%): 3.51 %.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Leukocytosis (Infection)
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Doctor advised proper rest and hydration.

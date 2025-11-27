@@ -1,0 +1,20 @@
+Hospital: Flores, Willis and Doyle Hospital
+Patient: Alexis Vance, ID HSP13997, Age 24, Gender Female
+Consulting Doctor: Dr. Alexander Miller, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) came out to be 8.63 g/dL, compared to normal 12.0-16.0. Marked as L.
+Observed Total RBC (mill/cmm): 3.92 mill/cmm. Marked as L.
+Haematocrit (%) was measured at 48.59 %. Marked as H.
+WBC (/uL) came out to be 11458.19 /uL, compared to normal 4000-10000. Marked as H.
+Platelets (/uL) was measured at 142757.37 /uL. Marked as L.
+Lab recorded Neutrophils (%) value of 40.85%.
+Lab recorded Lymphocytes (%) value of 18.28%. Marked as L.
+Monocytes (%) was measured at 4.16 %.
+Eosinophils (%) came out to be 0.84 %, compared to normal 1-6. Marked as L.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia, Hypertension
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Atorvastatin 20 mg, HS
+Doctor advised proper rest and hydration.

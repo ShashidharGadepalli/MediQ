@@ -1,0 +1,19 @@
+Hospital: Baird Group Hospital
+Patient: Michael Gordon, ID HSP69544, Age 21, Gender Male
+Consulting Doctor: Dr. Michelle Garcia, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Haemoglobin (g/dL) was measured at 13.44 g/dL.
+Total RBC (mill/cmm) came out to be 5.58 mill/cmm, compared to normal 4.2-5.4. Marked as H.
+Observed Haematocrit (%): 49.36 %. Marked as H.
+WBC (/uL) came out to be 12546.41 /uL, compared to normal 4000-10000. Marked as H.
+Platelets (/uL) was measured at 226365.46 /uL.
+Lab recorded Neutrophils (%) value of 45.4%.
+Observed Lymphocytes (%): 45.48 %. Marked as H.
+Lab recorded Monocytes (%) value of 9.09%.
+Eosinophils (%) was measured at 5.77 %.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+This report is generated electronically and may not need signature.

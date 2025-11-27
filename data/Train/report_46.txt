@@ -1,0 +1,20 @@
+Hospital: Mcdaniel Ltd Hospital
+Patient: Stephanie Atkinson, ID HSP33712, Age 69, Gender Male
+Consulting Doctor: Dr. Robert Wilcox, Date: 2025-11-15
+Report verified by automated system.
+Haemoglobin (g/dL) came out to be 20.03 g/dL, compared to normal 12.0-16.0. Marked as H.
+Total RBC (mill/cmm) was measured at 5.62 mill/cmm. Marked as H.
+Lab recorded Haematocrit (%) value of 55.75%. Marked as H.
+Observed WBC (/uL): 10101.96 /uL. Marked as H.
+Lab recorded Platelets (/uL) value of 253337.98/uL.
+Neutrophils (%) was measured at 67.38 %.
+Lymphocytes (%) was measured at 39.09 %.
+Observed Monocytes (%): 1.6 %. Marked as L.
+Eosinophils (%) was measured at 1.6 %.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Iron Deficiency Anemia
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Metformin 500 mg, BD
+Doctor advised proper rest and hydration.

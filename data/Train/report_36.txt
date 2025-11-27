@@ -1,0 +1,21 @@
+Hospital: Bartlett and Sons Hospital
+Patient: Amy Schroeder, ID HSP53703, Age 77, Gender Female
+Consulting Doctor: Dr. Hannah Kennedy, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Lab recorded Haemoglobin (g/dL) value of 10.38g/dL. Marked as L.
+Lab recorded Total RBC (mill/cmm) value of 6.67mill/cmm. Marked as H.
+Observed Haematocrit (%): 44.63 %.
+Lab recorded WBC (/uL) value of 8268.46/uL.
+Observed Platelets (/uL): 524076.54 /uL. Marked as H.
+Lab recorded Neutrophils (%) value of 77.55%. Marked as H.
+Lab recorded Lymphocytes (%) value of 51.3%. Marked as H.
+Observed Monocytes (%): 6.01 %.
+Observed Eosinophils (%): 0.81 %. Marked as L.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Iron Deficiency Anemia
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Atorvastatin 20 mg, HS
+ - Metformin 500 mg, BD
+Some values may vary depending on lab equipment calibration.

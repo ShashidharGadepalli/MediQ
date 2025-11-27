@@ -1,0 +1,21 @@
+Hospital: Hernandez PLC Hospital
+Patient: Mr. Chad Hall, ID HSP67128, Age 80, Gender Female
+Consulting Doctor: Dr. Crystal Sloan, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Observed Haemoglobin (g/dL): 20.39 g/dL. Marked as H.
+Lab recorded Total RBC (mill/cmm) value of 3.36mill/cmm. Marked as L.
+Haematocrit (%) came out to be 32.59 %, compared to normal 36-46. Marked as L.
+Lab recorded WBC (/uL) value of 6424.41/uL.
+Platelets (/uL) came out to be 496549.44 /uL, compared to normal 150000-450000. Marked as H.
+Neutrophils (%) came out to be 83.76 %, compared to normal 40-70. Marked as H.
+Lymphocytes (%) came out to be 29.68 %, compared to normal 20-40.
+Monocytes (%) came out to be 10.16 %, compared to normal 2-10. Marked as H.
+Lab recorded Eosinophils (%) value of 3.1%.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Lisinopril 10 mg, OD
+ - Atorvastatin 20 mg, HS
+Patient reported feeling slightly weak yesterday evening.

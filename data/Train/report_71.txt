@@ -1,0 +1,21 @@
+Hospital: Robertson-Meza Hospital
+Patient: Jacob Huber, ID HSP97949, Age 52, Gender Female
+Consulting Doctor: Dr. Derrick Delgado, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Lab recorded Haemoglobin (g/dL) value of 16.94g/dL. Marked as H.
+Total RBC (mill/cmm) came out to be 5.85 mill/cmm, compared to normal 4.2-5.4. Marked as H.
+Haematocrit (%) came out to be 32.55 %, compared to normal 36-46. Marked as L.
+WBC (/uL) was measured at 3135.78 /uL. Marked as L.
+Observed Platelets (/uL): 340748.32 /uL.
+Lab recorded Neutrophils (%) value of 81.63%. Marked as H.
+Lab recorded Lymphocytes (%) value of 14.41%. Marked as L.
+Monocytes (%) was measured at 2.6 %.
+Eosinophils (%) was measured at 3.41 %.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Atorvastatin 20 mg, HS
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Report verified by automated system.

@@ -1,0 +1,21 @@
+Hospital: Spencer, Cole and Harris Hospital
+Patient: Michael Lindsey, ID HSP03855, Age 76, Gender Female
+Consulting Doctor: Dr. James Flynn, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) came out to be 15.59 g/dL, compared to normal 12.0-16.0.
+Observed Total RBC (mill/cmm): 3.55 mill/cmm. Marked as L.
+Haematocrit (%) was measured at 34.39 %. Marked as L.
+WBC (/uL) came out to be 12352.5 /uL, compared to normal 4000-10000. Marked as H.
+Platelets (/uL) came out to be 447545.61 /uL, compared to normal 150000-450000.
+Observed Neutrophils (%): 81.63 %. Marked as H.
+Lymphocytes (%) came out to be 38.69 %, compared to normal 20-40.
+Monocytes (%) was measured at 9.75 %.
+Eosinophils (%) was measured at 7.55 %. Marked as H.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+Some values may vary depending on lab equipment calibration.

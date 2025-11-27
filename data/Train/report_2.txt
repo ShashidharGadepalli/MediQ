@@ -1,0 +1,19 @@
+Hospital: Mclaughlin, Warren and Padilla Hospital
+Patient: Nancy Williams, ID HSP70837, Age 73, Gender Female
+Consulting Doctor: Dr. Erik Jacobs, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Observed Haemoglobin (g/dL): 18.4 g/dL. Marked as H.
+Lab recorded Total RBC (mill/cmm) value of 4.65mill/cmm.
+Haematocrit (%) was measured at 45.91 %.
+WBC (/uL) was measured at 3120.13 /uL. Marked as L.
+Platelets (/uL) came out to be 278776.02 /uL, compared to normal 150000-450000.
+Neutrophils (%) came out to be 39.8 %, compared to normal 40-70. Marked as L.
+Observed Lymphocytes (%): 27.73 %.
+Monocytes (%) came out to be 2.83 %, compared to normal 2-10.
+Observed Eosinophils (%): 7.37 %. Marked as H.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+Report verified by automated system.

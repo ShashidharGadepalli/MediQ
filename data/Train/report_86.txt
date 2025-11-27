@@ -1,0 +1,20 @@
+Hospital: Lee Ltd Hospital
+Patient: Drew Garcia, ID HSP82281, Age 56, Gender Male
+Consulting Doctor: Dr. Stephen Russell, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Lab recorded Haemoglobin (g/dL) value of 16.82g/dL. Marked as H.
+Total RBC (mill/cmm) was measured at 6.75 mill/cmm. Marked as H.
+Haematocrit (%) came out to be 46.46 %, compared to normal 36-46. Marked as H.
+Observed WBC (/uL): 8765.36 /uL.
+Platelets (/uL) was measured at 358334.27 /uL.
+Observed Neutrophils (%): 68.24 %.
+Lymphocytes (%) was measured at 24.55 %.
+Monocytes (%) came out to be 10.69 %, compared to normal 2-10. Marked as H.
+Lab recorded Eosinophils (%) value of 5.97%.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia, Hypertension
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Metformin 500 mg, BD
+Doctor advised proper rest and hydration.

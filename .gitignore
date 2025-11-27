@@ -1,0 +1,15 @@
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model and data
+medical_ner_model/
+*.json
+output/
+
+# OS
+.DS_Store

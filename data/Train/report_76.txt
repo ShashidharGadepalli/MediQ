@@ -1,0 +1,21 @@
+Hospital: Ortiz, Fuller and Obrien Hospital
+Patient: Sarah Mcmillan, ID HSP98959, Age 79, Gender Male
+Consulting Doctor: Dr. Mrs. Kelly Cameron DVM, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Haemoglobin (g/dL) came out to be 17.43 g/dL, compared to normal 12.0-16.0. Marked as H.
+Observed Total RBC (mill/cmm): 4.58 mill/cmm.
+Lab recorded Haematocrit (%) value of 46.1%. Marked as H.
+Lab recorded WBC (/uL) value of 12206.15/uL. Marked as H.
+Lab recorded Platelets (/uL) value of 235034.4/uL.
+Lab recorded Neutrophils (%) value of 86.54%. Marked as H.
+Lymphocytes (%) was measured at 20.5 %.
+Monocytes (%) was measured at 8.19 %.
+Eosinophils (%) was measured at 3.76 %.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Lisinopril 10 mg, OD
+ - Aspirin 81 mg, OD
+Report verified by automated system.

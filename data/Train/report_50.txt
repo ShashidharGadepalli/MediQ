@@ -1,0 +1,21 @@
+Hospital: Flores-Johnson Hospital
+Patient: Tonya Little, ID HSP83906, Age 28, Gender Female
+Consulting Doctor: Dr. Heather Hanson, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Lab recorded Haemoglobin (g/dL) value of 16.27g/dL. Marked as H.
+Lab recorded Total RBC (mill/cmm) value of 4.6mill/cmm.
+Haematocrit (%) came out to be 34.36 %, compared to normal 36-46. Marked as L.
+Lab recorded WBC (/uL) value of 10472.05/uL. Marked as H.
+Lab recorded Platelets (/uL) value of 536123.63/uL. Marked as H.
+Neutrophils (%) came out to be 74.45 %, compared to normal 40-70. Marked as H.
+Observed Lymphocytes (%): 50.36 %. Marked as H.
+Observed Monocytes (%): 10.04 %. Marked as H.
+Observed Eosinophils (%): 1.7 %.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Metformin 500 mg, BD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Doctor advised proper rest and hydration.

@@ -1,0 +1,19 @@
+Hospital: Carlson, Martinez and Rodriguez Hospital
+Patient: Brianna Hull, ID HSP79877, Age 80, Gender Female
+Consulting Doctor: Dr. Gregory Rivera, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) was measured at 19.92 g/dL. Marked as H.
+Total RBC (mill/cmm) came out to be 4.2 mill/cmm, compared to normal 4.2-5.4.
+Observed Haematocrit (%): 38.94 %.
+Observed WBC (/uL): 7455.79 /uL.
+Observed Platelets (/uL): 364977.91 /uL.
+Observed Neutrophils (%): 49.91 %.
+Lab recorded Lymphocytes (%) value of 19.23%. Marked as L.
+Monocytes (%) came out to be 3.83 %, compared to normal 2-10.
+Lab recorded Eosinophils (%) value of 7.72%. Marked as H.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia, Hypertension
+Medications prescribed:
+ - Aspirin 81 mg, OD
+Some values may vary depending on lab equipment calibration.

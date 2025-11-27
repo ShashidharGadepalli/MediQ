@@ -1,0 +1,19 @@
+Hospital: Lopez-Sparks Hospital
+Patient: Sandra Mckenzie, ID HSP32410, Age 73, Gender Male
+Consulting Doctor: Dr. Katie Oliver, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Observed Haemoglobin (g/dL): 14.41 g/dL.
+Observed Total RBC (mill/cmm): 4.3 mill/cmm.
+Haematocrit (%) came out to be 57.56 %, compared to normal 36-46. Marked as H.
+WBC (/uL) was measured at 12576.31 /uL. Marked as H.
+Lab recorded Platelets (/uL) value of 338696.96/uL.
+Observed Neutrophils (%): 71.3 %. Marked as H.
+Lab recorded Lymphocytes (%) value of 18.06%. Marked as L.
+Monocytes (%) was measured at 9.37 %.
+Eosinophils (%) came out to be 7.32 %, compared to normal 1-6. Marked as H.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Metformin 500 mg, BD
+Patient reported feeling slightly weak yesterday evening.

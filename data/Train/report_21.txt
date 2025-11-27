@@ -1,0 +1,19 @@
+Hospital: Orr, Dickerson and Clark Hospital
+Patient: Sydney Rivera, ID HSP94352, Age 76, Gender Male
+Consulting Doctor: Dr. Carl Stewart, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) came out to be 19.89 g/dL, compared to normal 12.0-16.0. Marked as H.
+Total RBC (mill/cmm) was measured at 6.53 mill/cmm. Marked as H.
+Haematocrit (%) was measured at 30.23 %. Marked as L.
+WBC (/uL) was measured at 7160.45 /uL.
+Observed Platelets (/uL): 513860.86 /uL. Marked as H.
+Observed Neutrophils (%): 39.89 %. Marked as L.
+Observed Lymphocytes (%): 27.79 %.
+Monocytes (%) was measured at 11.74 %. Marked as H.
+Observed Eosinophils (%): 3.97 %.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Coronary Artery Disease
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Patient reported feeling slightly weak yesterday evening.

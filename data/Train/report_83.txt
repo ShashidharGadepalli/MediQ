@@ -1,0 +1,20 @@
+Hospital: Tucker Inc Hospital
+Patient: John Clements, ID HSP56148, Age 33, Gender Female
+Consulting Doctor: Dr. Connie Rhodes, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Observed Haemoglobin (g/dL): 12.11 g/dL.
+Total RBC (mill/cmm) was measured at 3.83 mill/cmm. Marked as L.
+Observed Haematocrit (%): 31.31 %. Marked as L.
+Lab recorded WBC (/uL) value of 8695.51/uL.
+Lab recorded Platelets (/uL) value of 467917.6/uL. Marked as H.
+Lab recorded Neutrophils (%) value of 28.59%. Marked as L.
+Lab recorded Lymphocytes (%) value of 25.64%.
+Monocytes (%) was measured at 9.38 %.
+Eosinophils (%) was measured at 5.75 %.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Atorvastatin 20 mg, HS
+Some values may vary depending on lab equipment calibration.

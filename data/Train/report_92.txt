@@ -1,0 +1,21 @@
+Hospital: Gill-Gay Hospital
+Patient: Anthony Palmer, ID HSP39753, Age 34, Gender Male
+Consulting Doctor: Dr. Connie Figueroa, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Observed Haemoglobin (g/dL): 20.23 g/dL. Marked as H.
+Lab recorded Total RBC (mill/cmm) value of 6.4mill/cmm. Marked as H.
+Observed Haematocrit (%): 44.59 %.
+WBC (/uL) came out to be 5831.68 /uL, compared to normal 4000-10000.
+Lab recorded Platelets (/uL) value of 361902.19/uL.
+Neutrophils (%) was measured at 44.12 %.
+Lymphocytes (%) came out to be 47.43 %, compared to normal 20-40. Marked as H.
+Monocytes (%) came out to be 7.84 %, compared to normal 2-10.
+Observed Eosinophils (%): 3.65 %.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Metformin 500 mg, BD
+ - Lisinopril 10 mg, OD
+This report is generated electronically and may not need signature.

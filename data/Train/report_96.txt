@@ -1,0 +1,21 @@
+Hospital: Williams, Harmon and Shaw Hospital
+Patient: Jimmy Garcia, ID HSP90766, Age 42, Gender Male
+Consulting Doctor: Dr. Deborah Torres, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) came out to be 16.58 g/dL, compared to normal 12.0-16.0. Marked as H.
+Observed Total RBC (mill/cmm): 6.31 mill/cmm. Marked as H.
+Lab recorded Haematocrit (%) value of 51.37%. Marked as H.
+Observed WBC (/uL): 7107.59 /uL.
+Observed Platelets (/uL): 370509.72 /uL.
+Observed Neutrophils (%): 72.73 %. Marked as H.
+Lab recorded Lymphocytes (%) value of 29.91%.
+Lab recorded Monocytes (%) value of 2.01%.
+Eosinophils (%) came out to be 2.92 %, compared to normal 1-6.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Aspirin 81 mg, OD
+This report is generated electronically and may not need signature.

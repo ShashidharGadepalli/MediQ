@@ -1,0 +1,21 @@
+Hospital: Peterson and Sons Hospital
+Patient: Alejandro Mcbride, ID HSP59697, Age 69, Gender Male
+Consulting Doctor: Dr. Jacqueline Bowers, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) was measured at 8.76 g/dL. Marked as L.
+Total RBC (mill/cmm) was measured at 5.06 mill/cmm.
+Haematocrit (%) was measured at 48.87 %. Marked as H.
+Lab recorded WBC (/uL) value of 11272.89/uL. Marked as H.
+Lab recorded Platelets (/uL) value of 502503.36/uL. Marked as H.
+Lab recorded Neutrophils (%) value of 81.81%. Marked as H.
+Lymphocytes (%) came out to be 30.19 %, compared to normal 20-40.
+Observed Monocytes (%): 3.98 %.
+Eosinophils (%) came out to be 0.85 %, compared to normal 1-6. Marked as L.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+This report is generated electronically and may not need signature.

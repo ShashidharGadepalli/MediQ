@@ -1,0 +1,30 @@
+Hospital: Oak Hill Medical Associates
+Patient: Mr. Charles Wright, ID HSP57248, Age 74, Gender Male
+Consulting Doctor: Dr. Angela Martinez, Date: 2025-11-24
+Report verified by automated system.
+Some values may vary depending on lab equipment calibration.
+Patient has been experiencing fatigue for past month.
+Hb level is 18.9 g/dL, above normal 12.0-16.0. Marked as H.
+Doctor advised proper rest and hydration.
+Total RBC measured at 6.85 mill/cmm - HIGH (normal: 4.2-5.4)
+Lab results reviewed by senior technician.
+Haematocrit: 29.3%. Below reference range 36-46%. Status: L
+Report verified by automated system.
+White blood cells show 15,800/uL, significantly elevated ↑
+Normal WBC is 4000-10000 per microliter.
+Patient reported feeling slightly weak yesterday evening.
+PLT count recorded: 542,000/uL. Marked as H (ref: 150000-450000)
+Sample collection time: 07:30 AM on 2025-11-24.
+Neut percentage = 89.2%, compared to normal 40-70%. HIGH
+Lymphocytes came out to be 12.1%, below normal 20-40%. L
+This report is generated electronically and may not need signature.
+Observed Monocytes (%): 1.5% - slightly low (normal 2-10%) ↓
+Eosinophils measured at 2.8%, acceptable range.
+Quality control passed. Batch ID: QC-9472.
+Final Clinical Notes:
+Diagnosis includes: Polycythemia Vera, Thrombocytosis, Leukocytosis
+Medications prescribed:
+ - Hydroxyurea 1000 mg, OD
+ - Aspirin 81 mg, OD
+ - Lisinopril 20 mg, OD
+Patient advised to schedule hematology consultation.

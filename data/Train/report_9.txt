@@ -1,0 +1,21 @@
+Hospital: Woods Inc Hospital
+Patient: Tom Gray, ID HSP43132, Age 46, Gender Male
+Consulting Doctor: Dr. Mary Rogers, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Observed Haemoglobin (g/dL): 18.54 g/dL. Marked as H.
+Total RBC (mill/cmm) was measured at 4.99 mill/cmm.
+Haematocrit (%) came out to be 30.43 %, compared to normal 36-46. Marked as L.
+WBC (/uL) was measured at 9889.07 /uL.
+Lab recorded Platelets (/uL) value of 563146.89/uL. Marked as H.
+Neutrophils (%) came out to be 40.43 %, compared to normal 40-70.
+Observed Lymphocytes (%): 23.68 %.
+Lab recorded Monocytes (%) value of 7.62%.
+Lab recorded Eosinophils (%) value of 7.47%. Marked as H.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Metformin 500 mg, BD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Report verified by automated system.

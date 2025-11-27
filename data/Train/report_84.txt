@@ -1,0 +1,20 @@
+Hospital: Johnson, Knight and Mason Hospital
+Patient: Aaron Sexton, ID HSP01324, Age 64, Gender Male
+Consulting Doctor: Dr. William Watts, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Haemoglobin (g/dL) was measured at 12.56 g/dL.
+Lab recorded Total RBC (mill/cmm) value of 5.41mill/cmm. Marked as H.
+Observed Haematocrit (%): 54.78 %. Marked as H.
+WBC (/uL) was measured at 12851.99 /uL. Marked as H.
+Observed Platelets (/uL): 445018.95 /uL.
+Neutrophils (%) was measured at 37.44 %. Marked as L.
+Lymphocytes (%) was measured at 19.64 %. Marked as L.
+Observed Monocytes (%): 3.97 %.
+Lab recorded Eosinophils (%) value of 0.8%. Marked as L.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Coronary Artery Disease
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Atorvastatin 20 mg, HS
+Some values may vary depending on lab equipment calibration.

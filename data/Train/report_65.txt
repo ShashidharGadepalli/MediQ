@@ -1,0 +1,20 @@
+Hospital: Adams, Navarro and Phillips Hospital
+Patient: Jessica Anderson, ID HSP19511, Age 69, Gender Male
+Consulting Doctor: Dr. Brittany Burke, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Lab recorded Haemoglobin (g/dL) value of 10.64g/dL. Marked as L.
+Total RBC (mill/cmm) was measured at 4.44 mill/cmm.
+Observed Haematocrit (%): 38.45 %.
+WBC (/uL) was measured at 2956.15 /uL. Marked as L.
+Lab recorded Platelets (/uL) value of 148692.23/uL. Marked as L.
+Neutrophils (%) came out to be 33.34 %, compared to normal 40-70. Marked as L.
+Lab recorded Lymphocytes (%) value of 16.47%. Marked as L.
+Observed Monocytes (%): 1.98 %. Marked as L.
+Lab recorded Eosinophils (%) value of 6.97%. Marked as H.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+This report is generated electronically and may not need signature.

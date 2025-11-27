@@ -1,0 +1,26 @@
+Hospital: Central Valley Medical Group
+Patient: Emily Johnson, ID HSP45672, Age 29, Gender Female
+Consulting Doctor: Dr. Andrew Lee, Date: 2025-11-20
+Some values may vary depending on lab equipment calibration.
+Lab results processed and verified on 2025-11-20.
+Hb shows 13.2 g/dL - within normal parameters.
+Patient reported no significant symptoms during visit.
+Red blood cell count measured: 4.45 mill/cmm, normal.
+Report verified by automated system.
+Hct percentage is 27.8%, marked LOW (ref: 36-46%)
+WBC: 3,200 /uL ↓ below normal range (4000-10000)
+Doctor advised monitoring and possible further testing.
+Platelet count = 168,000/uL, acceptable.
+This report is generated electronically.
+Neutrophils recorded at 38.5%, slightly below normal 40-70%. Status: L
+Lymphocytes show 45.2%, elevated above range 20-40%. Flag: HIGH
+Monocytes: 6.3%, within acceptable limits.
+Sample integrity verified by quality control.
+Eosinophils measured at 0.7%, compared to normal 1-6. Marked as L.
+Please retain this report for your medical records.
+Final Clinical Notes:
+Diagnosis includes: Leukopenia, Lymphocytosis
+Medications prescribed:
+ - Azithromycin 250 mg, OD
+ - Folic Acid 1 mg, OD
+Patient advised to avoid strenuous activity.

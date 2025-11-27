@@ -1,0 +1,20 @@
+Hospital: Mcintosh, Smith and Brady Hospital
+Patient: Cassie Thompson, ID HSP66298, Age 72, Gender Male
+Consulting Doctor: Dr. Jacob Olson, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Lab recorded Haemoglobin (g/dL) value of 20.45g/dL. Marked as H.
+Total RBC (mill/cmm) was measured at 6.94 mill/cmm. Marked as H.
+Haematocrit (%) was measured at 41.18 %.
+WBC (/uL) came out to be 7800.18 /uL, compared to normal 4000-10000.
+Observed Platelets (/uL): 290890.28 /uL.
+Neutrophils (%) was measured at 68.57 %.
+Lab recorded Lymphocytes (%) value of 25.43%.
+Observed Monocytes (%): 10.2 %. Marked as H.
+Eosinophils (%) was measured at 5.79 %.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Atorvastatin 20 mg, HS
+Doctor advised proper rest and hydration.

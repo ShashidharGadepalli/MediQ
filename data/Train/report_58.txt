@@ -1,0 +1,21 @@
+Hospital: Hart, Johnson and Hall Hospital
+Patient: Martin Mitchell, ID HSP31133, Age 78, Gender Female
+Consulting Doctor: Dr. Gabriella Johnson, Date: 2025-11-15
+Report verified by automated system.
+Lab recorded Haemoglobin (g/dL) value of 20.35g/dL. Marked as H.
+Observed Total RBC (mill/cmm): 5.66 mill/cmm. Marked as H.
+Haematocrit (%) was measured at 55.78 %. Marked as H.
+Lab recorded WBC (/uL) value of 12230.44/uL. Marked as H.
+Platelets (/uL) came out to be 204494.34 /uL, compared to normal 150000-450000.
+Lab recorded Neutrophils (%) value of 52.27%.
+Lymphocytes (%) came out to be 38.74 %, compared to normal 20-40.
+Monocytes (%) came out to be 7.9 %, compared to normal 2-10.
+Observed Eosinophils (%): 7.18 %. Marked as H.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection), Hypertension
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Atorvastatin 20 mg, HS
+Doctor advised proper rest and hydration.

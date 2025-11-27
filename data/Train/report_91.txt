@@ -1,0 +1,20 @@
+Hospital: Zuniga, Evans and Erickson Hospital
+Patient: John Martinez, ID HSP49521, Age 44, Gender Male
+Consulting Doctor: Dr. Steven Dunn, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) was measured at 11.4 g/dL. Marked as L.
+Observed Total RBC (mill/cmm): 3.74 mill/cmm. Marked as L.
+Haematocrit (%) was measured at 45.09 %.
+Observed WBC (/uL): 7555.32 /uL.
+Observed Platelets (/uL): 525313.34 /uL. Marked as H.
+Observed Neutrophils (%): 38.82 %. Marked as L.
+Observed Lymphocytes (%): 45.36 %. Marked as H.
+Monocytes (%) was measured at 9.97 %.
+Lab recorded Eosinophils (%) value of 2.99%.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Leukocytosis (Infection)
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Atorvastatin 20 mg, HS
+Report verified by automated system.

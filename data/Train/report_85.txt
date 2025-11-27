@@ -1,0 +1,21 @@
+Hospital: Duffy and Sons Hospital
+Patient: Thomas Hunter, ID HSP54939, Age 64, Gender Female
+Consulting Doctor: Dr. Joshua Patton, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) was measured at 14.31 g/dL.
+Lab recorded Total RBC (mill/cmm) value of 5.91mill/cmm. Marked as H.
+Observed Haematocrit (%): 52.59 %. Marked as H.
+WBC (/uL) came out to be 12277.01 /uL, compared to normal 4000-10000. Marked as H.
+Lab recorded Platelets (/uL) value of 486360.74/uL. Marked as H.
+Observed Neutrophils (%): 65.58 %.
+Lab recorded Lymphocytes (%) value of 35.75%.
+Monocytes (%) was measured at 7.29 %.
+Eosinophils (%) was measured at 5.24 %.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Metformin 500 mg, BD
+ - Lisinopril 10 mg, OD
+Doctor advised proper rest and hydration.

@@ -1,0 +1,19 @@
+Hospital: West, Porter and Perkins Hospital
+Patient: Anita Serrano, ID HSP95815, Age 70, Gender Male
+Consulting Doctor: Dr. Sharon Johnson, Date: 2025-11-15
+Report verified by automated system.
+Observed Haemoglobin (g/dL): 19.05 g/dL. Marked as H.
+Total RBC (mill/cmm) was measured at 3.07 mill/cmm. Marked as L.
+Haematocrit (%) was measured at 31.7 %. Marked as L.
+WBC (/uL) came out to be 9582.19 /uL, compared to normal 4000-10000.
+Platelets (/uL) was measured at 142644.66 /uL. Marked as L.
+Observed Neutrophils (%): 84.79 %. Marked as H.
+Lab recorded Lymphocytes (%) value of 42.78%. Marked as H.
+Monocytes (%) was measured at 7.86 %.
+Eosinophils (%) came out to be 1.27 %, compared to normal 1-6.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia
+Medications prescribed:
+ - Aspirin 81 mg, OD
+Patient reported feeling slightly weak yesterday evening.

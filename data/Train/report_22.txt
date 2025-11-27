@@ -1,0 +1,19 @@
+Hospital: Brennan-Zamora Hospital
+Patient: Matthew Mendoza, ID HSP53699, Age 27, Gender Female
+Consulting Doctor: Dr. Andrew Berry, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Observed Haemoglobin (g/dL): 17.55 g/dL. Marked as H.
+Observed Total RBC (mill/cmm): 5.66 mill/cmm. Marked as H.
+Haematocrit (%) came out to be 41.14 %, compared to normal 36-46.
+Lab recorded WBC (/uL) value of 8610.07/uL.
+Lab recorded Platelets (/uL) value of 437837.72/uL.
+Observed Neutrophils (%): 90.51 %. Marked as H.
+Lab recorded Lymphocytes (%) value of 14.94%. Marked as L.
+Observed Monocytes (%): 9.32 %.
+Observed Eosinophils (%): 2.58 %.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia, Leukocytosis (Infection)
+Medications prescribed:
+ - Metformin 500 mg, BD
+This report is generated electronically and may not need signature.

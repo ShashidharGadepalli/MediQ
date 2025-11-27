@@ -1,0 +1,20 @@
+Hospital: Moore-Chambers Hospital
+Patient: Christopher Morris, ID HSP26865, Age 63, Gender Female
+Consulting Doctor: Dr. Morgan Reed, Date: 2025-11-15
+Report verified by automated system.
+Haemoglobin (g/dL) came out to be 18.82 g/dL, compared to normal 12.0-16.0. Marked as H.
+Lab recorded Total RBC (mill/cmm) value of 6.76mill/cmm. Marked as H.
+Observed Haematocrit (%): 46.87 %. Marked as H.
+WBC (/uL) came out to be 10639.67 /uL, compared to normal 4000-10000. Marked as H.
+Platelets (/uL) came out to be 487684.58 /uL, compared to normal 150000-450000. Marked as H.
+Neutrophils (%) came out to be 76.22 %, compared to normal 40-70. Marked as H.
+Observed Lymphocytes (%): 16.33 %. Marked as L.
+Lab recorded Monocytes (%) value of 10.92%. Marked as H.
+Lab recorded Eosinophils (%) value of 3.9%.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+Report verified by automated system.

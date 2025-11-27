@@ -1,0 +1,21 @@
+Hospital: Sanders, Jones and Reyes Hospital
+Patient: Annette Vincent, ID HSP19696, Age 80, Gender Male
+Consulting Doctor: Dr. Thomas Nguyen, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Lab recorded Haemoglobin (g/dL) value of 12.28g/dL.
+Lab recorded Total RBC (mill/cmm) value of 4.78mill/cmm.
+Lab recorded Haematocrit (%) value of 57.6%. Marked as H.
+Observed WBC (/uL): 9871.41 /uL.
+Observed Platelets (/uL): 203615.16 /uL.
+Neutrophils (%) came out to be 48.49 %, compared to normal 40-70.
+Lab recorded Lymphocytes (%) value of 26.86%.
+Observed Monocytes (%): 3.28 %.
+Eosinophils (%) was measured at 3.97 %.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Iron Deficiency Anemia
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Metformin 500 mg, BD
+ - Lisinopril 10 mg, OD
+Some values may vary depending on lab equipment calibration.

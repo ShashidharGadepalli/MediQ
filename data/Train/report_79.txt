@@ -1,0 +1,19 @@
+Hospital: Wilson-Brown Hospital
+Patient: Benjamin Fisher, ID HSP35074, Age 32, Gender Female
+Consulting Doctor: Dr. Jessica Smith, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) came out to be 20.7 g/dL, compared to normal 12.0-16.0. Marked as H.
+Lab recorded Total RBC (mill/cmm) value of 6.36mill/cmm. Marked as H.
+Haematocrit (%) was measured at 31.15 %. Marked as L.
+WBC (/uL) came out to be 9230.81 /uL, compared to normal 4000-10000.
+Observed Platelets (/uL): 232817.35 /uL.
+Observed Neutrophils (%): 81.31 %. Marked as H.
+Observed Lymphocytes (%): 19.54 %. Marked as L.
+Lab recorded Monocytes (%) value of 9.46%.
+Observed Eosinophils (%): 2.64 %.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+This report is generated electronically and may not need signature.

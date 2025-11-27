@@ -1,0 +1,20 @@
+Hospital: Smith, Lawrence and Singh Hospital
+Patient: Tyler Cruz, ID HSP47838, Age 41, Gender Female
+Consulting Doctor: Dr. Nicholas Parrish, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Lab recorded Haemoglobin (g/dL) value of 11.22g/dL. Marked as L.
+Observed Total RBC (mill/cmm): 4.86 mill/cmm.
+Haematocrit (%) came out to be 44.39 %, compared to normal 36-46.
+WBC (/uL) came out to be 7211.48 /uL, compared to normal 4000-10000.
+Platelets (/uL) was measured at 427360.92 /uL.
+Lab recorded Neutrophils (%) value of 41.53%.
+Lymphocytes (%) came out to be 28.55 %, compared to normal 20-40.
+Monocytes (%) was measured at 10.64 %. Marked as H.
+Observed Eosinophils (%): 5.94 %.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+This report is generated electronically and may not need signature.

@@ -1,0 +1,21 @@
+Hospital: Lewis Group Hospital
+Patient: Jillian Hill, ID HSP44534, Age 23, Gender Female
+Consulting Doctor: Dr. Cassandra Lara, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) came out to be 11.43 g/dL, compared to normal 12.0-16.0. Marked as L.
+Total RBC (mill/cmm) came out to be 3.04 mill/cmm, compared to normal 4.2-5.4. Marked as L.
+Haematocrit (%) came out to be 33.34 %, compared to normal 36-46. Marked as L.
+Observed WBC (/uL): 12147.56 /uL. Marked as H.
+Observed Platelets (/uL): 146007.77 /uL. Marked as L.
+Neutrophils (%) came out to be 49.66 %, compared to normal 40-70.
+Lymphocytes (%) was measured at 39.61 %.
+Monocytes (%) came out to be 10.74 %, compared to normal 2-10. Marked as H.
+Lab recorded Eosinophils (%) value of 3.81%.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Iron Deficiency Anemia
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Metformin 500 mg, BD
+ - Lisinopril 10 mg, OD
+Patient reported feeling slightly weak yesterday evening.

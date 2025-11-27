@@ -1,0 +1,19 @@
+Hospital: Davis, Eaton and Benjamin Hospital
+Patient: Dr. Clarence Moses, ID HSP10495, Age 58, Gender Male
+Consulting Doctor: Dr. Brett Hicks, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Observed Haemoglobin (g/dL): 17.31 g/dL. Marked as H.
+Total RBC (mill/cmm) came out to be 3.29 mill/cmm, compared to normal 4.2-5.4. Marked as L.
+Observed Haematocrit (%): 55.8 %. Marked as H.
+Observed WBC (/uL): 6853.01 /uL.
+Observed Platelets (/uL): 435692.3 /uL.
+Neutrophils (%) was measured at 59.48 %.
+Lymphocytes (%) came out to be 25.94 %, compared to normal 20-40.
+Lab recorded Monocytes (%) value of 7.43%.
+Eosinophils (%) came out to be 5.48 %, compared to normal 1-6.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+This report is generated electronically and may not need signature.

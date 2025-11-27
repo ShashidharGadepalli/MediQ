@@ -1,0 +1,21 @@
+Hospital: Stephens Ltd Hospital
+Patient: Lauren Maldonado, ID HSP51371, Age 57, Gender Female
+Consulting Doctor: Dr. John Nguyen, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Observed Haemoglobin (g/dL): 19.25 g/dL. Marked as H.
+Lab recorded Total RBC (mill/cmm) value of 5.08mill/cmm.
+Haematocrit (%) came out to be 46.84 %, compared to normal 36-46. Marked as H.
+WBC (/uL) came out to be 3586.13 /uL, compared to normal 4000-10000. Marked as L.
+Platelets (/uL) was measured at 514512.79 /uL. Marked as H.
+Observed Neutrophils (%): 64.09 %.
+Lymphocytes (%) was measured at 40.05 %. Marked as H.
+Monocytes (%) came out to be 8.17 %, compared to normal 2-10.
+Lab recorded Eosinophils (%) value of 6.67%. Marked as H.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection), Hypertension
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Lisinopril 10 mg, OD
+Report verified by automated system.

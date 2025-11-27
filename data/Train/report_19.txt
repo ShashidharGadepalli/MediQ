@@ -1,0 +1,19 @@
+Hospital: Dominguez-Knight Hospital
+Patient: John Harper, ID HSP15347, Age 68, Gender Male
+Consulting Doctor: Dr. Nicole Jones, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) came out to be 9.8 g/dL, compared to normal 12.0-16.0. Marked as L.
+Total RBC (mill/cmm) was measured at 4.48 mill/cmm.
+Observed Haematocrit (%): 59.04 %. Marked as H.
+Lab recorded WBC (/uL) value of 9058.1/uL.
+Platelets (/uL) came out to be 250231.17 /uL, compared to normal 150000-450000.
+Neutrophils (%) came out to be 28.58 %, compared to normal 40-70. Marked as L.
+Lymphocytes (%) came out to be 31.95 %, compared to normal 20-40.
+Monocytes (%) came out to be 2.65 %, compared to normal 2-10.
+Lab recorded Eosinophils (%) value of 6.53%. Marked as H.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+This report is generated electronically and may not need signature.

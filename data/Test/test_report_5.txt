@@ -1,0 +1,26 @@
+Hospital: Summit Health Partners
+Patient: Jennifer Davis, ID HSP16483, Age 35, Gender Female
+Consulting Doctor: Dr. Kevin Ramirez, Date: 2025-11-22
+This report is generated electronically and may not need signature.
+Some values may vary depending on lab equipment calibration.
+Hb: 14.5g/dL, normal parameters
+Patient mentioned recent travel history.
+Red Blood Cells = 5.8 mill/cmm, marked as H (normal 4.2-5.4)
+Report verified by automated system.
+Hematocrit shows 43.2%, within acceptable range.
+Doctor advised proper rest and hydration.
+White cell count measured at 5,900 /uL - normal
+Lab tech verified sample quality at 08:20 AM.
+PLT count: 195,000/uL, no abnormalities detected.
+Patient vitals stable during sample collection.
+Neutrophil percentage recorded: 68.5%, normal range.
+Observed Lymphocytes (%): 16.8% - below normal 20-40%. L
+Some values may vary depending on lab equipment calibration.
+Monocytes at 12.3%, compared to normal 2-10%. Marked as HIGH
+Eosinophils came out to be 7.1%, above normal range 1-6. ↑
+This report requires physician review.
+Final Clinical Notes:
+Diagnosis includes: Erythrocytosis, Monocytosis
+Medications prescribed:
+ - Ibuprofen 400 mg, TDS
+Report verified by automated system.

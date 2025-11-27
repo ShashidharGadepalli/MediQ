@@ -1,0 +1,21 @@
+Hospital: Taylor LLC Hospital
+Patient: Jessica Shepherd, ID HSP46691, Age 33, Gender Female
+Consulting Doctor: Dr. Lindsay Thomas, Date: 2025-11-15
+Report verified by automated system.
+Haemoglobin (g/dL) came out to be 20.46 g/dL, compared to normal 12.0-16.0. Marked as H.
+Total RBC (mill/cmm) came out to be 5.75 mill/cmm, compared to normal 4.2-5.4. Marked as H.
+Observed Haematocrit (%): 32.78 %. Marked as L.
+WBC (/uL) came out to be 8079.11 /uL, compared to normal 4000-10000.
+Platelets (/uL) was measured at 139320.6 /uL. Marked as L.
+Observed Neutrophils (%): 78.72 %. Marked as H.
+Observed Lymphocytes (%): 24.14 %.
+Monocytes (%) was measured at 6.68 %.
+Lab recorded Eosinophils (%) value of 2.14%.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Lisinopril 10 mg, OD
+ - Aspirin 81 mg, OD
+Patient reported feeling slightly weak yesterday evening.

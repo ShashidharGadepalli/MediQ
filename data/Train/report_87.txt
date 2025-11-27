@@ -1,0 +1,20 @@
+Hospital: Robinson, Mcdonald and Chen Hospital
+Patient: Troy Williams, ID HSP54526, Age 26, Gender Male
+Consulting Doctor: Dr. Douglas Lopez, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) came out to be 18.45 g/dL, compared to normal 12.0-16.0. Marked as H.
+Total RBC (mill/cmm) came out to be 6.14 mill/cmm, compared to normal 4.2-5.4. Marked as H.
+Haematocrit (%) came out to be 25.67 %, compared to normal 36-46. Marked as L.
+WBC (/uL) was measured at 7298.96 /uL.
+Platelets (/uL) was measured at 211521.93 /uL.
+Lab recorded Neutrophils (%) value of 50.88%.
+Lab recorded Lymphocytes (%) value of 18.46%. Marked as L.
+Monocytes (%) was measured at 3.05 %.
+Eosinophils (%) was measured at 2.79 %.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+This report is generated electronically and may not need signature.

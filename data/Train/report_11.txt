@@ -1,0 +1,20 @@
+Hospital: Morales-Nunez Hospital
+Patient: Gabriel Moore, ID HSP35102, Age 78, Gender Female
+Consulting Doctor: Dr. Kayla Garcia, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) came out to be 9.54 g/dL, compared to normal 12.0-16.0. Marked as L.
+Lab recorded Total RBC (mill/cmm) value of 5.52mill/cmm. Marked as H.
+Observed Haematocrit (%): 51.65 %. Marked as H.
+Lab recorded WBC (/uL) value of 4602.37/uL.
+Lab recorded Platelets (/uL) value of 478940.98/uL. Marked as H.
+Neutrophils (%) came out to be 90.19 %, compared to normal 40-70. Marked as H.
+Lymphocytes (%) was measured at 33.24 %.
+Observed Monocytes (%): 7.29 %.
+Eosinophils (%) was measured at 1.67 %.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Aspirin 81 mg, OD
+Patient reported feeling slightly weak yesterday evening.

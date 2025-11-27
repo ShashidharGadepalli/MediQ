@@ -1,0 +1,19 @@
+Hospital: Berg-Olsen Hospital
+Patient: Alexander Baker, ID HSP87060, Age 51, Gender Female
+Consulting Doctor: Dr. Ryan Snow, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Lab recorded Haemoglobin (g/dL) value of 8.72g/dL. Marked as L.
+Total RBC (mill/cmm) was measured at 5.42 mill/cmm. Marked as H.
+Haematocrit (%) came out to be 39.17 %, compared to normal 36-46.
+WBC (/uL) came out to be 6950.12 /uL, compared to normal 4000-10000.
+Platelets (/uL) was measured at 153358.03 /uL.
+Neutrophils (%) came out to be 54.98 %, compared to normal 40-70.
+Lymphocytes (%) came out to be 47.15 %, compared to normal 20-40. Marked as H.
+Monocytes (%) came out to be 1.81 %, compared to normal 2-10. Marked as L.
+Eosinophils (%) was measured at 6.81 %. Marked as H.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia, Hypertension
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+Some values may vary depending on lab equipment calibration.

@@ -1,0 +1,21 @@
+Hospital: Estrada PLC Hospital
+Patient: Hannah Hall, ID HSP79003, Age 75, Gender Female
+Consulting Doctor: Dr. Jeanette Reyes, Date: 2025-11-15
+Report verified by automated system.
+Haemoglobin (g/dL) was measured at 11.52 g/dL. Marked as L.
+Lab recorded Total RBC (mill/cmm) value of 6.98mill/cmm. Marked as H.
+Haematocrit (%) was measured at 34.51 %. Marked as L.
+Lab recorded WBC (/uL) value of 9747.88/uL.
+Platelets (/uL) came out to be 141270.18 /uL, compared to normal 150000-450000. Marked as L.
+Lab recorded Neutrophils (%) value of 54.6%.
+Observed Lymphocytes (%): 51.38 %. Marked as H.
+Lab recorded Monocytes (%) value of 9.63%.
+Eosinophils (%) came out to be 2.06 %, compared to normal 1-6.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia, Hypertension
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Atorvastatin 20 mg, HS
+ - Aspirin 81 mg, OD
+Doctor advised proper rest and hydration.

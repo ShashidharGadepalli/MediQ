@@ -1,0 +1,19 @@
+Hospital: Lewis-Cain Hospital
+Patient: George Thompson, ID HSP20315, Age 61, Gender Male
+Consulting Doctor: Dr. Bridget Buchanan, Date: 2025-11-15
+Report verified by automated system.
+Observed Haemoglobin (g/dL): 18.55 g/dL. Marked as H.
+Observed Total RBC (mill/cmm): 5.82 mill/cmm. Marked as H.
+Observed Haematocrit (%): 55.22 %. Marked as H.
+WBC (/uL) came out to be 7455.97 /uL, compared to normal 4000-10000.
+Platelets (/uL) came out to be 320592.07 /uL, compared to normal 150000-450000.
+Neutrophils (%) came out to be 32.03 %, compared to normal 40-70. Marked as L.
+Lymphocytes (%) was measured at 30.32 %.
+Lab recorded Monocytes (%) value of 11.4%. Marked as H.
+Observed Eosinophils (%): 6.2 %. Marked as H.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus, Iron Deficiency Anemia
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+This report is generated electronically and may not need signature.

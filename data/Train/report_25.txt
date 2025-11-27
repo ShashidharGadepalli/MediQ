@@ -1,0 +1,20 @@
+Hospital: Evans, Beard and Dixon Hospital
+Patient: Kelli Hernandez, ID HSP39470, Age 39, Gender Female
+Consulting Doctor: Dr. Grant Fisher, Date: 2025-11-15
+Report verified by automated system.
+Haemoglobin (g/dL) came out to be 15.17 g/dL, compared to normal 12.0-16.0.
+Lab recorded Total RBC (mill/cmm) value of 6.44mill/cmm. Marked as H.
+Observed Haematocrit (%): 33.52 %. Marked as L.
+Observed WBC (/uL): 10569.58 /uL. Marked as H.
+Platelets (/uL) came out to be 532277.37 /uL, compared to normal 150000-450000. Marked as H.
+Lab recorded Neutrophils (%) value of 89.57%. Marked as H.
+Observed Lymphocytes (%): 28.18 %.
+Monocytes (%) came out to be 3.9 %, compared to normal 2-10.
+Observed Eosinophils (%): 1.74 %.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Lisinopril 10 mg, OD
+Some values may vary depending on lab equipment calibration.

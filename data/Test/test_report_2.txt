@@ -1,0 +1,25 @@
+Hospital: Westside Community Hospital
+Patient: Sarah Martinez, ID HSP92347, Age 42, Gender Female
+Consulting Doctor: Dr. James Peterson, Date: 2025-11-19
+This report is generated electronically and may not need signature.
+Patient mentioned experiencing headaches recently.
+Hemoglobin: 16.8 g/dL, marked as H (normal: 12-16)
+Some values may vary depending on lab equipment calibration.
+RBC = 6.2 mill/cmm - ELEVATED above reference range
+Hematocrit measured at 31.5%. Below normal (36-46%). Status: L
+Report verified by automated system.
+White blood cell count is 7,850 /uL, within normal limits.
+Lab tech ID: LT-447. Sample collected at 07:15 AM.
+PLT count shows 520,000/uL - significantly HIGH (normal 150000-450000)
+Neut percentage recorded: 45.3%, acceptable range.
+Observed Lymphocytes (%): 18.2% - BELOW NORMAL (20-40%) ↓
+Doctor advised proper rest and hydration.
+Monocytes came out to be 11.8%, compared to normal 2-10. Marked as H.
+Eosinophils: 5.5%, no flags.
+Patient should return for follow-up testing in one month.
+Final Clinical Notes:
+Diagnosis includes: Polycythemia, Thrombocytosis
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Hydroxyurea 500 mg, BD
+Report verification code: RV-2891-B

@@ -1,0 +1,19 @@
+Hospital: Arias, Walker and Smith Hospital
+Patient: Melissa Montgomery, ID HSP90295, Age 30, Gender Female
+Consulting Doctor: Dr. Kathryn Kidd, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) was measured at 17.96 g/dL. Marked as H.
+Total RBC (mill/cmm) was measured at 4.98 mill/cmm.
+Haematocrit (%) was measured at 57.52 %. Marked as H.
+Observed WBC (/uL): 9106.54 /uL.
+Lab recorded Platelets (/uL) value of 362291.5/uL.
+Observed Neutrophils (%): 44.84 %.
+Lymphocytes (%) was measured at 16.46 %. Marked as L.
+Observed Monocytes (%): 9.81 %.
+Lab recorded Eosinophils (%) value of 5.06%.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia, Coronary Artery Disease
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Report verified by automated system.

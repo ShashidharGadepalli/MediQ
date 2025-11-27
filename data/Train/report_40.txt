@@ -1,0 +1,20 @@
+Hospital: Lin, Grimes and Barrett Hospital
+Patient: Mr. Dennis Jones, ID HSP13130, Age 29, Gender Female
+Consulting Doctor: Dr. Karen Nguyen, Date: 2025-11-15
+Report verified by automated system.
+Haemoglobin (g/dL) was measured at 15.1 g/dL.
+Observed Total RBC (mill/cmm): 5.27 mill/cmm.
+Haematocrit (%) came out to be 27.44 %, compared to normal 36-46. Marked as L.
+Observed WBC (/uL): 3966.89 /uL. Marked as L.
+Observed Platelets (/uL): 159473.31 /uL.
+Neutrophils (%) was measured at 37.29 %. Marked as L.
+Lymphocytes (%) was measured at 29.46 %.
+Observed Monocytes (%): 10.56 %. Marked as H.
+Eosinophils (%) was measured at 3.19 %.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Leukocytosis (Infection)
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Lisinopril 10 mg, OD
+Some values may vary depending on lab equipment calibration.

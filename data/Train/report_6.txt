@@ -1,0 +1,19 @@
+Hospital: Leon PLC Hospital
+Patient: Margaret Schaefer, ID HSP69091, Age 67, Gender Female
+Consulting Doctor: Dr. Anthony Ellison, Date: 2025-11-15
+Report verified by automated system.
+Haemoglobin (g/dL) was measured at 16.34 g/dL. Marked as H.
+Lab recorded Total RBC (mill/cmm) value of 6.4mill/cmm. Marked as H.
+Observed Haematocrit (%): 43.85 %.
+Lab recorded WBC (/uL) value of 3870.35/uL. Marked as L.
+Platelets (/uL) was measured at 226792.54 /uL.
+Lab recorded Neutrophils (%) value of 80.18%. Marked as H.
+Observed Lymphocytes (%): 24.48 %.
+Monocytes (%) was measured at 5.7 %.
+Observed Eosinophils (%): 4.71 %.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection), Iron Deficiency Anemia
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+Patient reported feeling slightly weak yesterday evening.

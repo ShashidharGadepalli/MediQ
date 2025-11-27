@@ -1,0 +1,20 @@
+Hospital: Barton-Tucker Hospital
+Patient: Heather Cameron, ID HSP16992, Age 54, Gender Female
+Consulting Doctor: Dr. David Kelly, Date: 2025-11-15
+Report verified by automated system.
+Observed Haemoglobin (g/dL): 10.63 g/dL. Marked as L.
+Lab recorded Total RBC (mill/cmm) value of 5.21mill/cmm.
+Observed Haematocrit (%): 51.16 %. Marked as H.
+WBC (/uL) came out to be 3076.08 /uL, compared to normal 4000-10000. Marked as L.
+Platelets (/uL) was measured at 443296.99 /uL.
+Observed Neutrophils (%): 63.03 %.
+Lab recorded Lymphocytes (%) value of 48.6%. Marked as H.
+Lab recorded Monocytes (%) value of 3.48%.
+Eosinophils (%) was measured at 5.96 %.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Aspirin 81 mg, OD
+Some values may vary depending on lab equipment calibration.

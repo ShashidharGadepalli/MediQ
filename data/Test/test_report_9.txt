@@ -1,0 +1,28 @@
+Hospital: Southpoint Urgent Care
+Patient: Daniel Lee, ID HSP62914, Age 39, Gender Male
+Consulting Doctor: Dr. Rebecca Adams, Date: 2025-11-26
+Some values may vary depending on lab equipment calibration.
+Report verified by automated system.
+Patient has no known drug allergies.
+Hb measured at 15.3 g/dL, normal range.
+Total Red Blood Cells: 3.2 mill/cmm - marked L (ref: 4.2-5.4)
+Doctor advised proper rest and hydration.
+Hematocrit percentage at 57.4% - significantly HIGH compared to 36-46%
+Patient reported feeling slightly weak yesterday evening.
+WBC shows 9,800/uL, within normal parameters.
+Report verified by automated system.
+Platelet count = 78,000 per uL - critically LOW ↓ (normal: 150000-450000)
+Lab processing completed at 11:45 AM.
+Neutrophil percentage recorded: 41.8%, acceptable levels.
+Lymphocytes measured at 51.2%, elevated above normal 20-40%. H
+This report is generated electronically and may not need signature.
+Monocytes: 2.1%, lower end of normal range 2-10%.
+Eosinophils came out to be 4.7%, within reference range 1-6%.
+Sample quality verified by automated analyzer.
+Final Clinical Notes:
+Diagnosis includes: Severe Thrombocytopenia, Lymphocytosis
+Medications prescribed:
+ - Romiplostim 250 mcg, weekly injection
+ - Methylprednisolone 16 mg, OD
+ - Ondansetron 8 mg, as needed
+Patient requires urgent hematology referral.

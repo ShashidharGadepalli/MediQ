@@ -1,0 +1,27 @@
+Hospital: Midtown Diagnostic Center
+Patient: Lisa Anderson, ID HSP29156, Age 53, Gender Female
+Consulting Doctor: Dr. Robert Singh, Date: 2025-11-23
+Patient reported feeling slightly weak yesterday evening.
+Some values may vary depending on lab equipment calibration.
+Hemoglobin measured at 10.1 g/dL, below range (12-16). Status: LOW
+Report verified by automated system.
+RBC: 4.0 mill/cmm, lower limit of normal
+Hct percentage shows 56.8% - significantly elevated ↑ (ref: 36-46%)
+Doctor advised follow-up testing in two weeks.
+Lab recorded WBC value of 2,750/uL. Marked as L.
+Normal WBC range is 4000-10000 per microliter.
+Platelets = 445,000/uL, upper range of normal (150000-450000)
+This report is generated electronically.
+Neutrophils: 32.5%, decreased compared to normal 40-70%. L
+Sample processing completed at 10:15 AM.
+Lymphocyte count at 48.9%, elevated above 20-40%. HIGH
+Monocytes measured: 5.2%, within normal parameters.
+Patient has no known allergies.
+Eosinophil percentage came out to be 0.4%, compared to normal 1-6. ↓
+Report verification code: MDC-8821-X
+Final Clinical Notes:
+Diagnosis includes: Anemia, Leukopenia
+Medications prescribed:
+ - Folic Acid 1 mg, OD
+ - Vitamin B12 1000 mcg, weekly injection
+Please retain for medical records.

@@ -1,0 +1,19 @@
+Hospital: Reyes PLC Hospital
+Patient: James Boyd, ID HSP62180, Age 52, Gender Male
+Consulting Doctor: Dr. Jeanette White, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Observed Haemoglobin (g/dL): 9.52 g/dL. Marked as L.
+Observed Total RBC (mill/cmm): 4.53 mill/cmm.
+Lab recorded Haematocrit (%) value of 56.05%. Marked as H.
+WBC (/uL) came out to be 12556.34 /uL, compared to normal 4000-10000. Marked as H.
+Platelets (/uL) came out to be 547916.68 /uL, compared to normal 150000-450000. Marked as H.
+Observed Neutrophils (%): 87.87 %. Marked as H.
+Lymphocytes (%) came out to be 41.37 %, compared to normal 20-40. Marked as H.
+Monocytes (%) was measured at 7.11 %.
+Observed Eosinophils (%): 7.18 %. Marked as H.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus, Iron Deficiency Anemia
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+This report is generated electronically and may not need signature.

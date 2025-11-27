@@ -1,0 +1,20 @@
+Hospital: Horne-Taylor Hospital
+Patient: David Rodriguez, ID HSP13218, Age 51, Gender Female
+Consulting Doctor: Dr. Betty Anderson, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) came out to be 13.24 g/dL, compared to normal 12.0-16.0.
+Total RBC (mill/cmm) was measured at 3.41 mill/cmm. Marked as L.
+Lab recorded Haematocrit (%) value of 46.22%. Marked as H.
+WBC (/uL) was measured at 12618.69 /uL. Marked as H.
+Platelets (/uL) was measured at 122622.94 /uL. Marked as L.
+Observed Neutrophils (%): 51.81 %.
+Lymphocytes (%) was measured at 28.92 %.
+Monocytes (%) came out to be 3.65 %, compared to normal 2-10.
+Eosinophils (%) was measured at 6.11 %. Marked as H.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Hypertension
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+Patient reported feeling slightly weak yesterday evening.

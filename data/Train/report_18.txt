@@ -1,0 +1,20 @@
+Hospital: Williams-Oliver Hospital
+Patient: Jasmine Sanders, ID HSP56101, Age 67, Gender Female
+Consulting Doctor: Dr. Alyssa Terry, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Observed Haemoglobin (g/dL): 8.41 g/dL. Marked as L.
+Total RBC (mill/cmm) was measured at 4.91 mill/cmm.
+Haematocrit (%) was measured at 39.87 %.
+WBC (/uL) came out to be 9490.57 /uL, compared to normal 4000-10000.
+Lab recorded Platelets (/uL) value of 274590.03/uL.
+Neutrophils (%) was measured at 36.03 %. Marked as L.
+Lymphocytes (%) was measured at 24.97 %.
+Lab recorded Monocytes (%) value of 5.41%.
+Eosinophils (%) was measured at 5.37 %.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Metformin 500 mg, BD
+Report verified by automated system.

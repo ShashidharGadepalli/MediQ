@@ -1,0 +1,20 @@
+Hospital: Miller-Rubio Hospital
+Patient: Daniel Castillo, ID HSP18283, Age 45, Gender Female
+Consulting Doctor: Dr. Mr. Adam Bishop, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Lab recorded Haemoglobin (g/dL) value of 10.29g/dL. Marked as L.
+Lab recorded Total RBC (mill/cmm) value of 4.59mill/cmm.
+Haematocrit (%) came out to be 37.56 %, compared to normal 36-46.
+Lab recorded WBC (/uL) value of 12994.64/uL. Marked as H.
+Platelets (/uL) came out to be 337021.72 /uL, compared to normal 150000-450000.
+Neutrophils (%) was measured at 42.45 %.
+Lymphocytes (%) came out to be 34.36 %, compared to normal 20-40.
+Monocytes (%) came out to be 5.77 %, compared to normal 2-10.
+Eosinophils (%) came out to be 5.64 %, compared to normal 1-6.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Atorvastatin 20 mg, HS
+Doctor advised proper rest and hydration.

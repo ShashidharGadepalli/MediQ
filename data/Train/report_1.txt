@@ -1,0 +1,21 @@
+Hospital: Johnson, Payne and Good Hospital
+Patient: Lynn Simpson, ID HSP39358, Age 59, Gender Male
+Consulting Doctor: Dr. Bonnie Ferguson, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) was measured at 8.49 g/dL. Marked as L.
+Total RBC (mill/cmm) came out to be 4.37 mill/cmm, compared to normal 4.2-5.4.
+Lab recorded Haematocrit (%) value of 36.6%.
+WBC (/uL) came out to be 4980.61 /uL, compared to normal 4000-10000.
+Platelets (/uL) was measured at 346823.23 /uL.
+Observed Neutrophils (%): 74.66 %. Marked as H.
+Lymphocytes (%) came out to be 17.51 %, compared to normal 20-40. Marked as L.
+Lab recorded Monocytes (%) value of 6.87%.
+Eosinophils (%) came out to be 0.98 %, compared to normal 1-6. Marked as L.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Atorvastatin 20 mg, HS
+ - Aspirin 81 mg, OD
+Patient reported feeling slightly weak yesterday evening.

@@ -1,0 +1,21 @@
+Hospital: Taylor LLC Hospital
+Patient: Danielle Lee, ID HSP25438, Age 38, Gender Female
+Consulting Doctor: Dr. Kevin Wright, Date: 2025-11-15
+Report verified by automated system.
+Observed Haemoglobin (g/dL): 17.0 g/dL. Marked as H.
+Total RBC (mill/cmm) came out to be 6.6 mill/cmm, compared to normal 4.2-5.4. Marked as H.
+Haematocrit (%) came out to be 38.84 %, compared to normal 36-46.
+Observed WBC (/uL): 12591.92 /uL. Marked as H.
+Platelets (/uL) came out to be 318500.05 /uL, compared to normal 150000-450000.
+Lab recorded Neutrophils (%) value of 88.98%. Marked as H.
+Lymphocytes (%) came out to be 40.98 %, compared to normal 20-40. Marked as H.
+Observed Monocytes (%): 9.38 %.
+Eosinophils (%) was measured at 5.0 %.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease, Iron Deficiency Anemia
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Metformin 500 mg, BD
+Report verified by automated system.

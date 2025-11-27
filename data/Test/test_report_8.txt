@@ -1,0 +1,28 @@
+Hospital: Lakeside Family Medicine
+Patient: Amanda Foster, ID HSP38765, Age 46, Gender Female
+Consulting Doctor: Dr. Steven Clark, Date: 2025-11-25
+This report is generated electronically and may not need signature.
+Patient mentioned recent viral infection symptoms.
+Lab results as follows:
+Report verified by automated system.
+Hemoglobin level: 11.2g/dL, slightly below normal (12-16). L
+RBC count = 5.55 mill/cmm, marked HIGH
+Some values may vary depending on lab equipment calibration.
+Hct shows 39.8%, within normal range.
+Doctor advised proper rest and hydration.
+White cell count measured at 6,100 /uL - normal limits
+Platelet count: 132,000/uL, below normal 150000-450000. Status: LOW
+Report verified by automated system.
+Patient vitals were stable during visit.
+Neutrophils (%) recorded at 54.2%, acceptable.
+Lymphocyte percentage is 33.7%, normal range 20-40%.
+Sample integrity confirmed by lab supervisor.
+Monocytes measured: 9.4%, within reference range 2-10%.
+Eosinophil count came out to be 8.9%, above normal 1-6%. Marked as H.
+This report requires no additional verification.
+Final Clinical Notes:
+Diagnosis includes: Mild Thrombocytopenia, Eosinophilia
+Medications prescribed:
+ - Prednisone 10 mg, BD
+ - Loratadine 10 mg, OD
+Patient should avoid contact sports until platelet count normalizes.

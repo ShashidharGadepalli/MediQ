@@ -1,0 +1,20 @@
+Hospital: Wong-Barrett Hospital
+Patient: Devon Gill, ID HSP64018, Age 37, Gender Female
+Consulting Doctor: Dr. Sheila Lucas, Date: 2025-11-15
+Report verified by automated system.
+Haemoglobin (g/dL) was measured at 17.95 g/dL. Marked as H.
+Observed Total RBC (mill/cmm): 3.07 mill/cmm. Marked as L.
+Lab recorded Haematocrit (%) value of 54.61%. Marked as H.
+Lab recorded WBC (/uL) value of 12517.19/uL. Marked as H.
+Platelets (/uL) was measured at 145323.88 /uL. Marked as L.
+Neutrophils (%) came out to be 40.35 %, compared to normal 40-70.
+Lab recorded Lymphocytes (%) value of 18.32%. Marked as L.
+Lab recorded Monocytes (%) value of 1.47%. Marked as L.
+Observed Eosinophils (%): 6.68 %. Marked as H.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection), Coronary Artery Disease
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Aspirin 81 mg, OD
+Some values may vary depending on lab equipment calibration.

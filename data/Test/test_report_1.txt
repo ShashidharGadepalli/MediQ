@@ -1,0 +1,26 @@
+Hospital: Northeast Medical Center
+Patient: Robert Chen, ID HSP84521, Age 67, Gender Male
+Consulting Doctor: Dr. Michelle Torres, Date: 2025-11-18
+Report verified by automated system.
+Patient reported feeling weak and fatigued over the past week.
+Some values may vary depending on lab equipment calibration.
+Hb level recorded at 9.8 g/dL (reference range: 12.0-16.0) - DECREASED
+Total RBC count shows 3.85 mill/cmm, marked LOW.
+Doctor advised increased iron intake and follow-up in 2 weeks.
+Haematocrit percentage came out to be 48.2%. Status: HIGH
+Lab recorded WBC value of 11,250/uL. Flagged as elevated.
+Normal range for WBC is 4000-10000 /uL.
+Platelets measured: 285,000 per microliter, within acceptable limits.
+Report verified by automated system.
+Neutrophils = 72.5% (above normal range 40-70%) ↑
+Lymph count at 22.8%, normal parameters.
+Monocytes: 8.1% - acceptable.
+Sample was processed on 2025-11-18 at 09:30 AM.
+Eos percentage shows 3.2%, no abnormalities noted.
+This report is generated electronically and may not require signature.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia, Leukocytosis
+Medications prescribed:
+ - Ferrous Sulfate 325 mg, BD
+ - Amoxicillin 500 mg, TDS
+Please consult your physician for detailed interpretation of results.

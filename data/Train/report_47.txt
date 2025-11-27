@@ -1,0 +1,20 @@
+Hospital: Smith, Wade and James Hospital
+Patient: Christine Carroll, ID HSP74593, Age 26, Gender Female
+Consulting Doctor: Dr. John Brown MD, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Observed Haemoglobin (g/dL): 14.82 g/dL.
+Total RBC (mill/cmm) was measured at 5.2 mill/cmm.
+Haematocrit (%) came out to be 59.48 %, compared to normal 36-46. Marked as H.
+WBC (/uL) was measured at 4785.1 /uL.
+Platelets (/uL) was measured at 307366.21 /uL.
+Neutrophils (%) came out to be 57.54 %, compared to normal 40-70.
+Lab recorded Lymphocytes (%) value of 22.43%.
+Monocytes (%) was measured at 4.52 %.
+Eosinophils (%) was measured at 6.05 %. Marked as H.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus, Iron Deficiency Anemia
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Aspirin 81 mg, OD
+Report verified by automated system.

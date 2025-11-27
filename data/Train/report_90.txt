@@ -1,0 +1,19 @@
+Hospital: Harris-Miller Hospital
+Patient: Lindsey Perkins, ID HSP04262, Age 42, Gender Female
+Consulting Doctor: Dr. John Wilcox, Date: 2025-11-15
+Report verified by automated system.
+Observed Haemoglobin (g/dL): 9.7 g/dL. Marked as L.
+Lab recorded Total RBC (mill/cmm) value of 5.75mill/cmm. Marked as H.
+Observed Haematocrit (%): 53.57 %. Marked as H.
+Lab recorded WBC (/uL) value of 11279.31/uL. Marked as H.
+Platelets (/uL) came out to be 463148.03 /uL, compared to normal 150000-450000. Marked as H.
+Neutrophils (%) was measured at 33.06 %. Marked as L.
+Lymphocytes (%) came out to be 24.97 %, compared to normal 20-40.
+Lab recorded Monocytes (%) value of 11.44%. Marked as H.
+Eosinophils (%) came out to be 6.72 %, compared to normal 1-6. Marked as H.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus, Coronary Artery Disease
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+Patient reported feeling slightly weak yesterday evening.

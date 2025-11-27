@@ -1,0 +1,19 @@
+Hospital: Palmer LLC Hospital
+Patient: Amanda Jackson, ID HSP62563, Age 57, Gender Female
+Consulting Doctor: Dr. Joseph Smith, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Haemoglobin (g/dL) was measured at 15.21 g/dL.
+Observed Total RBC (mill/cmm): 4.61 mill/cmm.
+Observed Haematocrit (%): 52.83 %. Marked as H.
+Lab recorded WBC (/uL) value of 5211.71/uL.
+Lab recorded Platelets (/uL) value of 168141.89/uL.
+Lab recorded Neutrophils (%) value of 82.43%. Marked as H.
+Observed Lymphocytes (%): 46.07 %. Marked as H.
+Observed Monocytes (%): 1.9 %. Marked as L.
+Eosinophils (%) was measured at 6.64 %. Marked as H.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Doctor advised proper rest and hydration.

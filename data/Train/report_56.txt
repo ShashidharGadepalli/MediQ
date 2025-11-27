@@ -1,0 +1,20 @@
+Hospital: White Inc Hospital
+Patient: Austin West, ID HSP94025, Age 67, Gender Female
+Consulting Doctor: Dr. Emily Haley, Date: 2025-11-15
+Report verified by automated system.
+Lab recorded Haemoglobin (g/dL) value of 8.89g/dL. Marked as L.
+Observed Total RBC (mill/cmm): 6.3 mill/cmm. Marked as H.
+Observed Haematocrit (%): 44.68 %.
+Lab recorded WBC (/uL) value of 9121.8/uL.
+Observed Platelets (/uL): 435163.82 /uL.
+Neutrophils (%) was measured at 70.24 %. Marked as H.
+Lab recorded Lymphocytes (%) value of 43.3%. Marked as H.
+Observed Monocytes (%): 7.63 %.
+Observed Eosinophils (%): 2.21 %.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia, Leukocytosis (Infection)
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Atorvastatin 20 mg, HS
+Report verified by automated system.

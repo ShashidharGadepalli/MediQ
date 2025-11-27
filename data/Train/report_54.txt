@@ -1,0 +1,20 @@
+Hospital: Hernandez, Payne and Sanders Hospital
+Patient: Alicia Doyle, ID HSP85088, Age 63, Gender Male
+Consulting Doctor: Dr. Blake Jones, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Haemoglobin (g/dL) came out to be 15.64 g/dL, compared to normal 12.0-16.0.
+Observed Total RBC (mill/cmm): 3.67 mill/cmm. Marked as L.
+Lab recorded Haematocrit (%) value of 50.37%. Marked as H.
+WBC (/uL) came out to be 4926.87 /uL, compared to normal 4000-10000.
+Observed Platelets (/uL): 355090.08 /uL.
+Observed Neutrophils (%): 28.25 %. Marked as L.
+Lymphocytes (%) was measured at 24.93 %.
+Monocytes (%) came out to be 5.38 %, compared to normal 2-10.
+Eosinophils (%) came out to be 1.75 %, compared to normal 1-6.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Leukocytosis (Infection)
+Medications prescribed:
+ - Aspirin 81 mg, OD
+ - Atorvastatin 20 mg, HS
+Report verified by automated system.

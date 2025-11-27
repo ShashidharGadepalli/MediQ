@@ -1,0 +1,20 @@
+Hospital: Cox, Ramirez and Kennedy Hospital
+Patient: Jessica Hicks, ID HSP15118, Age 74, Gender Male
+Consulting Doctor: Dr. Joshua Williams, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Haemoglobin (g/dL) came out to be 17.3 g/dL, compared to normal 12.0-16.0. Marked as H.
+Total RBC (mill/cmm) came out to be 4.88 mill/cmm, compared to normal 4.2-5.4.
+Haematocrit (%) was measured at 45.97 %.
+WBC (/uL) came out to be 8716.41 /uL, compared to normal 4000-10000.
+Observed Platelets (/uL): 457323.91 /uL. Marked as H.
+Lab recorded Neutrophils (%) value of 29.75%. Marked as L.
+Lab recorded Lymphocytes (%) value of 16.54%. Marked as L.
+Lab recorded Monocytes (%) value of 10.01%. Marked as H.
+Observed Eosinophils (%): 4.36 %.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Atorvastatin 20 mg, HS
+This report is generated electronically and may not need signature.

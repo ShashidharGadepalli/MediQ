@@ -1,0 +1,19 @@
+Hospital: Peterson Ltd Hospital
+Patient: Paula Mercer, ID HSP18696, Age 58, Gender Female
+Consulting Doctor: Dr. Donald Allison, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Haemoglobin (g/dL) came out to be 14.79 g/dL, compared to normal 12.0-16.0.
+Lab recorded Total RBC (mill/cmm) value of 5.86mill/cmm. Marked as H.
+Haematocrit (%) was measured at 59.58 %. Marked as H.
+WBC (/uL) came out to be 8451.62 /uL, compared to normal 4000-10000.
+Lab recorded Platelets (/uL) value of 569126.39/uL. Marked as H.
+Neutrophils (%) came out to be 37.83 %, compared to normal 40-70. Marked as L.
+Lymphocytes (%) was measured at 37.04 %.
+Observed Monocytes (%): 6.15 %.
+Observed Eosinophils (%): 5.05 %.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection), Hypertension
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+Patient reported feeling slightly weak yesterday evening.

@@ -1,0 +1,20 @@
+Hospital: Brown-Young Hospital
+Patient: Mrs. Rebecca Raymond DDS, ID HSP50646, Age 72, Gender Female
+Consulting Doctor: Dr. Joe Huffman, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Observed Haemoglobin (g/dL): 10.0 g/dL. Marked as L.
+Total RBC (mill/cmm) was measured at 4.24 mill/cmm.
+Lab recorded Haematocrit (%) value of 42.56%.
+WBC (/uL) was measured at 3993.22 /uL. Marked as L.
+Platelets (/uL) came out to be 423998.99 /uL, compared to normal 150000-450000.
+Observed Neutrophils (%): 41.42 %.
+Observed Lymphocytes (%): 14.31 %. Marked as L.
+Lab recorded Monocytes (%) value of 6.19%.
+Eosinophils (%) was measured at 5.26 %.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Aspirin 81 mg, OD
+Some values may vary depending on lab equipment calibration.

@@ -1,0 +1,21 @@
+Hospital: Aguilar-Meadows Hospital
+Patient: Vickie Riley, ID HSP17217, Age 57, Gender Male
+Consulting Doctor: Dr. Robert Flores, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Lab recorded Haemoglobin (g/dL) value of 17.22g/dL. Marked as H.
+Observed Total RBC (mill/cmm): 5.2 mill/cmm.
+Lab recorded Haematocrit (%) value of 53.64%. Marked as H.
+Observed WBC (/uL): 8006.43 /uL.
+Platelets (/uL) came out to be 306319.33 /uL, compared to normal 150000-450000.
+Neutrophils (%) was measured at 76.82 %. Marked as H.
+Lymphocytes (%) came out to be 30.36 %, compared to normal 20-40.
+Monocytes (%) was measured at 9.95 %.
+Eosinophils (%) came out to be 5.47 %, compared to normal 1-6.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Metformin 500 mg, BD
+Patient reported feeling slightly weak yesterday evening.

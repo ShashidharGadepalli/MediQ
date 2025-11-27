@@ -1,0 +1,20 @@
+Hospital: Anderson-Richards Hospital
+Patient: David Reyes, ID HSP21907, Age 65, Gender Male
+Consulting Doctor: Dr. Thomas Cook, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Lab recorded Haemoglobin (g/dL) value of 20.08g/dL. Marked as H.
+Observed Total RBC (mill/cmm): 3.73 mill/cmm. Marked as L.
+Observed Haematocrit (%): 57.11 %. Marked as H.
+Lab recorded WBC (/uL) value of 10648.56/uL. Marked as H.
+Observed Platelets (/uL): 570020.71 /uL. Marked as H.
+Neutrophils (%) came out to be 50.23 %, compared to normal 40-70.
+Lymphocytes (%) was measured at 20.79 %.
+Lab recorded Monocytes (%) value of 2.71%.
+Eosinophils (%) came out to be 2.68 %, compared to normal 1-6.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Metformin 500 mg, BD
+Some values may vary depending on lab equipment calibration.

@@ -1,0 +1,20 @@
+Hospital: Williams Ltd Hospital
+Patient: Crystal Cabrera, ID HSP10550, Age 25, Gender Female
+Consulting Doctor: Dr. April Parks, Date: 2025-11-15
+Report verified by automated system.
+Observed Haemoglobin (g/dL): 19.52 g/dL. Marked as H.
+Observed Total RBC (mill/cmm): 3.23 mill/cmm. Marked as L.
+Observed Haematocrit (%): 39.89 %.
+Observed WBC (/uL): 2936.48 /uL. Marked as L.
+Platelets (/uL) came out to be 584350.07 /uL, compared to normal 150000-450000. Marked as H.
+Neutrophils (%) came out to be 87.94 %, compared to normal 40-70. Marked as H.
+Lymphocytes (%) was measured at 14.43 %. Marked as L.
+Monocytes (%) was measured at 9.16 %.
+Observed Eosinophils (%): 2.51 %.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Iron Deficiency Anemia
+Medications prescribed:
+ - Metformin 500 mg, BD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+Report verified by automated system.

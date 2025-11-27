@@ -1,0 +1,19 @@
+Hospital: Shaffer PLC Hospital
+Patient: Kristine Stephens, ID HSP68048, Age 28, Gender Female
+Consulting Doctor: Dr. Andrea Gibson, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Lab recorded Haemoglobin (g/dL) value of 16.95g/dL. Marked as H.
+Total RBC (mill/cmm) came out to be 6.68 mill/cmm, compared to normal 4.2-5.4. Marked as H.
+Lab recorded Haematocrit (%) value of 25.81%. Marked as L.
+Observed WBC (/uL): 11601.71 /uL. Marked as H.
+Observed Platelets (/uL): 280802.72 /uL.
+Lab recorded Neutrophils (%) value of 49.4%.
+Lab recorded Lymphocytes (%) value of 14.44%. Marked as L.
+Observed Monocytes (%): 2.38 %.
+Eosinophils (%) was measured at 0.86 %. Marked as L.
+Some values may vary depending on lab equipment calibration.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Aspirin 81 mg, OD
+Doctor advised proper rest and hydration.

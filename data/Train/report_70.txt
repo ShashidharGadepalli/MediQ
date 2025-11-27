@@ -1,0 +1,21 @@
+Hospital: Adams, Phillips and Murphy Hospital
+Patient: Kyle Jones, ID HSP04002, Age 22, Gender Female
+Consulting Doctor: Dr. Lisa Gibbs, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Observed Haemoglobin (g/dL): 12.5 g/dL.
+Total RBC (mill/cmm) came out to be 6.85 mill/cmm, compared to normal 4.2-5.4. Marked as H.
+Haematocrit (%) came out to be 29.07 %, compared to normal 36-46. Marked as L.
+WBC (/uL) came out to be 11772.94 /uL, compared to normal 4000-10000. Marked as H.
+Platelets (/uL) was measured at 562048.58 /uL. Marked as H.
+Neutrophils (%) came out to be 86.34 %, compared to normal 40-70. Marked as H.
+Lab recorded Lymphocytes (%) value of 50.98%. Marked as H.
+Monocytes (%) came out to be 2.66 %, compared to normal 2-10.
+Eosinophils (%) was measured at 3.83 %.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Hypertension, Leukocytosis (Infection)
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Metformin 500 mg, BD
+ - Aspirin 81 mg, OD
+Doctor advised proper rest and hydration.

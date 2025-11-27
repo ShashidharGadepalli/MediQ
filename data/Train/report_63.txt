@@ -1,0 +1,21 @@
+Hospital: Suarez-Mckinney Hospital
+Patient: Edward Erickson, ID HSP12954, Age 75, Gender Male
+Consulting Doctor: Dr. Billy Harrison, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) came out to be 15.62 g/dL, compared to normal 12.0-16.0.
+Total RBC (mill/cmm) was measured at 6.46 mill/cmm. Marked as H.
+Observed Haematocrit (%): 49.89 %. Marked as H.
+Lab recorded WBC (/uL) value of 12185.98/uL. Marked as H.
+Observed Platelets (/uL): 224457.44 /uL.
+Neutrophils (%) was measured at 57.66 %.
+Lab recorded Lymphocytes (%) value of 51.99%. Marked as H.
+Observed Monocytes (%): 2.85 %.
+Eosinophils (%) was measured at 7.67 %. Marked as H.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Lisinopril 10 mg, OD
+ - Metformin 500 mg, BD
+This report is generated electronically and may not need signature.

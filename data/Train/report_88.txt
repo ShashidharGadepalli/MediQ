@@ -1,0 +1,20 @@
+Hospital: Carter, Wells and Reeves Hospital
+Patient: Jackson Oconnor, ID HSP59515, Age 47, Gender Male
+Consulting Doctor: Dr. Gabriel Thompson, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Observed Haemoglobin (g/dL): 17.47 g/dL. Marked as H.
+Total RBC (mill/cmm) came out to be 4.01 mill/cmm, compared to normal 4.2-5.4. Marked as L.
+Observed Haematocrit (%): 46.2 %. Marked as H.
+WBC (/uL) came out to be 6980.68 /uL, compared to normal 4000-10000.
+Platelets (/uL) was measured at 226612.08 /uL.
+Observed Neutrophils (%): 40.65 %.
+Lymphocytes (%) was measured at 38.17 %.
+Observed Monocytes (%): 5.3 %.
+Eosinophils (%) was measured at 1.11 %.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Atorvastatin 20 mg, HS
+Some values may vary depending on lab equipment calibration.

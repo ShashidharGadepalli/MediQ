@@ -1,0 +1,19 @@
+Hospital: Bowen, Turner and Johnson Hospital
+Patient: Jennifer Sweeney, ID HSP02693, Age 73, Gender Male
+Consulting Doctor: Dr. David Hawkins, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Observed Haemoglobin (g/dL): 15.05 g/dL.
+Observed Total RBC (mill/cmm): 5.46 mill/cmm. Marked as H.
+Haematocrit (%) was measured at 28.15 %. Marked as L.
+WBC (/uL) was measured at 8240.11 /uL.
+Lab recorded Platelets (/uL) value of 339163.3/uL.
+Observed Neutrophils (%): 48.02 %.
+Lymphocytes (%) was measured at 31.69 %.
+Monocytes (%) came out to be 9.18 %, compared to normal 2-10.
+Eosinophils (%) was measured at 2.79 %.
+Patient reported feeling slightly weak yesterday evening.
+Final Clinical Notes:
+Diagnosis includes: Hypertension
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+Patient reported feeling slightly weak yesterday evening.

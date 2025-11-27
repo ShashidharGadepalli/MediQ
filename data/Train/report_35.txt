@@ -1,0 +1,20 @@
+Hospital: Brown Ltd Hospital
+Patient: James Larson, ID HSP27805, Age 53, Gender Male
+Consulting Doctor: Dr. David Johnson, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Haemoglobin (g/dL) was measured at 14.43 g/dL.
+Total RBC (mill/cmm) was measured at 3.44 mill/cmm. Marked as L.
+Haematocrit (%) was measured at 28.66 %. Marked as L.
+Lab recorded WBC (/uL) value of 5777.66/uL.
+Observed Platelets (/uL): 288683.69 /uL.
+Neutrophils (%) was measured at 85.06 %. Marked as H.
+Observed Lymphocytes (%): 51.49 %. Marked as H.
+Monocytes (%) came out to be 8.52 %, compared to normal 2-10.
+Eosinophils (%) came out to be 5.85 %, compared to normal 1-6.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection), Iron Deficiency Anemia
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Metformin 500 mg, BD
+This report is generated electronically and may not need signature.

@@ -1,0 +1,20 @@
+Hospital: Jones Ltd Hospital
+Patient: Julie Yu, ID HSP30803, Age 52, Gender Female
+Consulting Doctor: Dr. Carlos Flowers, Date: 2025-11-15
+Doctor advised proper rest and hydration.
+Haemoglobin (g/dL) came out to be 18.3 g/dL, compared to normal 12.0-16.0. Marked as H.
+Total RBC (mill/cmm) came out to be 5.25 mill/cmm, compared to normal 4.2-5.4.
+Lab recorded Haematocrit (%) value of 57.62%. Marked as H.
+Lab recorded WBC (/uL) value of 2885.9/uL. Marked as L.
+Platelets (/uL) came out to be 282451.72 /uL, compared to normal 150000-450000.
+Neutrophils (%) was measured at 43.23 %.
+Lymphocytes (%) was measured at 33.52 %.
+Lab recorded Monocytes (%) value of 3.5%.
+Lab recorded Eosinophils (%) value of 6.5%. Marked as H.
+Report verified by automated system.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Atorvastatin 20 mg, HS
+ - Metformin 500 mg, BD
+This report is generated electronically and may not need signature.

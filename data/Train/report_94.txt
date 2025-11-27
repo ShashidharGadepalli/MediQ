@@ -1,0 +1,21 @@
+Hospital: Palmer LLC Hospital
+Patient: Samuel Gordon, ID HSP47819, Age 40, Gender Male
+Consulting Doctor: Dr. Kayla Hicks, Date: 2025-11-15
+This report is generated electronically and may not need signature.
+Lab recorded Haemoglobin (g/dL) value of 12.08g/dL.
+Total RBC (mill/cmm) was measured at 5.28 mill/cmm.
+Observed Haematocrit (%): 37.93 %.
+Lab recorded WBC (/uL) value of 5370.54/uL.
+Lab recorded Platelets (/uL) value of 340425.27/uL.
+Neutrophils (%) was measured at 35.77 %. Marked as L.
+Lymphocytes (%) was measured at 51.41 %. Marked as H.
+Lab recorded Monocytes (%) value of 8.5%.
+Lab recorded Eosinophils (%) value of 2.07%.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Leukocytosis (Infection)
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Aspirin 81 mg, OD
+ - Lisinopril 10 mg, OD
+Some values may vary depending on lab equipment calibration.

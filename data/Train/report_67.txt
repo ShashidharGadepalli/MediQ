@@ -1,0 +1,21 @@
+Hospital: Nolan, Adams and Bridges Hospital
+Patient: Emily Cooper, ID HSP28937, Age 72, Gender Female
+Consulting Doctor: Dr. Cynthia Mcclure, Date: 2025-11-15
+Patient reported feeling slightly weak yesterday evening.
+Observed Haemoglobin (g/dL): 9.88 g/dL. Marked as L.
+Total RBC (mill/cmm) came out to be 5.11 mill/cmm, compared to normal 4.2-5.4.
+Observed Haematocrit (%): 36.19 %.
+WBC (/uL) was measured at 12269.17 /uL. Marked as H.
+Platelets (/uL) came out to be 390258.12 /uL, compared to normal 150000-450000.
+Neutrophils (%) was measured at 63.91 %.
+Lymphocytes (%) came out to be 22.64 %, compared to normal 20-40.
+Monocytes (%) was measured at 12.28 %. Marked as H.
+Observed Eosinophils (%): 2.98 %.
+This report is generated electronically and may not need signature.
+Final Clinical Notes:
+Diagnosis includes: Coronary Artery Disease
+Medications prescribed:
+ - Lisinopril 10 mg, OD
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Metformin 500 mg, BD
+Report verified by automated system.

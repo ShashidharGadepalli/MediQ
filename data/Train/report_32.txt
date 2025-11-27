@@ -1,0 +1,21 @@
+Hospital: Williams-Castro Hospital
+Patient: Jonathan Sanchez, ID HSP01746, Age 32, Gender Male
+Consulting Doctor: Dr. Krista Page, Date: 2025-11-15
+Some values may vary depending on lab equipment calibration.
+Haemoglobin (g/dL) was measured at 14.87 g/dL.
+Lab recorded Total RBC (mill/cmm) value of 5.64mill/cmm. Marked as H.
+Haematocrit (%) came out to be 56.5 %, compared to normal 36-46. Marked as H.
+WBC (/uL) was measured at 9538.0 /uL.
+Lab recorded Platelets (/uL) value of 235392.63/uL.
+Lab recorded Neutrophils (%) value of 81.97%. Marked as H.
+Observed Lymphocytes (%): 30.46 %.
+Monocytes (%) came out to be 2.48 %, compared to normal 2-10.
+Eosinophils (%) was measured at 6.4 %. Marked as H.
+Doctor advised proper rest and hydration.
+Final Clinical Notes:
+Diagnosis includes: Type 2 Diabetes Mellitus, Coronary Artery Disease
+Medications prescribed:
+ - Amoxicillin-Clavulanate 625 mg, TDS
+ - Lisinopril 10 mg, OD
+ - Metformin 500 mg, BD
+Some values may vary depending on lab equipment calibration.
